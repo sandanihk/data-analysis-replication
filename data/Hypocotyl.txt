@@ -1,0 +1,96 @@
+"Genotype"	"Treatment"	"Treatment.Long"	"Hypocotyl.length.mm"	"Leaf.Num.at.Measure"
+"1"	"Ler-1"	"22VarSD"	"22Var8SDA"	14.1	2
+"2"	"Ler-1"	"22VarSD"	"22Var8SDA"	14.47	2
+"3"	"Ler-1"	"22VarSD"	"22Var8SDA"	10.91	0
+"4"	"Ler-1"	"22VarSD"	"22Var8SDA"	12.43	2
+"5"	"Ler-1"	"22VarLD"	"22Var16LDA"	6.63	3
+"6"	"Ler-1"	"22VarLD"	"22Var16LDA"	7.41	2
+"7"	"Ler-1"	"22VarLD"	"22Var16LDA"	7.48	2
+"8"	"Ler-1"	"22VarLD"	"22Var16LDA"	8.12	3
+"9"	"Ler-1"	"22ConSD"	"22C8SDA"	8.24	2
+"10"	"Ler-1"	"22ConSD"	"22C8SDA"	8.81	2
+"11"	"Ler-1"	"22ConSD"	"22C8SDA"	6.85	2
+"12"	"Ler-1"	"22ConSD"	"22C8SDA"	7.24	2
+"13"	"Ler-1"	"22ConLD"	"22C16LDA"	6.32	4
+"14"	"Ler-1"	"22ConLD"	"22C16LDA"	7.13	4
+"15"	"Ler-1"	"22ConLD"	"22C16LDA"	7.04	4
+"16"	"Ler-1"	"22ConLD"	"22C16LDA"	5.35	4
+"17"	"Col (Lis)"	"22VarSD"	"22Var8SDA"	14.1	2
+"18"	"Col (Lis)"	"22VarSD"	"22Var8SDA"	14.47	2
+"19"	"Col (Lis)"	"22VarSD"	"22Var8SDA"	10.91	0
+"20"	"Col (Lis)"	"22VarSD"	"22Var8SDA"	12.43	2
+"21"	"Col (Lis)"	"22VarLD"	"22Var16LDA"	8.65	3
+"22"	"Col (Lis)"	"22VarLD"	"22Var16LDA"	5.19	4
+"23"	"Col (Lis)"	"22VarLD"	"22Var16LDA"	8.75	4
+"24"	"Col (Lis)"	"22VarLD"	"22Var16LDA"	7.94	4
+"25"	"Col (Lis)"	"22ConSD"	"22C8SDA"	4.23	2
+"26"	"Col (Lis)"	"22ConSD"	"22C8SDA"	4.58	2
+"27"	"Col (Lis)"	"22ConSD"	"22C8SDA"	5.37	2
+"28"	"Col (Lis)"	"22ConSD"	"22C8SDA"	6.1	2
+"29"	"Col (Lis)"	"22ConLD"	"22C16LDA"	5.81	5
+"30"	"Col (Lis)"	"22ConLD"	"22C16LDA"	3.64	5
+"31"	"Col (Lis)"	"22ConLD"	"22C16LDA"	4.47	5
+"32"	"Col (Lis)"	"22ConLD"	"22C16LDA"	4.4	5
+"33"	"phyB-1"	"22VarSD"	"22Var8SDA"	17.92	0
+"34"	"phyB-1"	"22VarSD"	"22Var8SDA"	20.15	0
+"35"	"phyB-1"	"22VarSD"	"22Var8SDA"	19.65	0
+"36"	"phyB-1"	"22VarSD"	"22Var8SDA"	19.37	0
+"37"	"phyB-1"	"22VarLD"	"22Var16LDA"	14.14	2
+"38"	"phyB-1"	"22VarLD"	"22Var16LDA"	14.01	2
+"39"	"phyB-1"	"22VarLD"	"22Var16LDA"	14.02	2
+"40"	"phyB-1"	"22VarLD"	"22Var16LDA"	16.13	2
+"41"	"phyB-1"	"22ConSD"	"22C8SDA"	18.27	1
+"42"	"phyB-1"	"22ConSD"	"22C8SDA"	18.08	1
+"43"	"phyB-1"	"22ConSD"	"22C8SDA"	15.04	1
+"44"	"phyB-1"	"22ConSD"	"22C8SDA"	16.88	1
+"45"	"phyB-1"	"22ConLD"	"22C16LDA"	10.7	3
+"46"	"phyB-1"	"22ConLD"	"22C16LDA"	9.23	2
+"47"	"phyB-1"	"22ConLD"	"22C16LDA"	11.65	3
+"48"	"phyB-1"	"22ConLD"	"22C16LDA"	12.56	3
+"49"	"Ler-1"	"12ConSD"	"12C8SDA"	5.55	2
+"50"	"Ler-1"	"12ConSD"	"12C8SDA"	5	1
+"51"	"Ler-1"	"12ConSD"	"12C8SDA"	5.9	1
+"52"	"Ler-1"	"12ConSD"	"12C8SDA"	5.92	2
+"53"	"Ler-1"	"12ConLD"	"12C16LDA"	6.07	2
+"54"	"Ler-1"	"12ConLD"	"12C16LDA"	5.9	2
+"55"	"Ler-1"	"12ConLD"	"12C16LDA"	6.11	2
+"56"	"Ler-1"	"12ConLD"	"12C16LDA"	5.29	1
+"57"	"Ler-1"	"12ConSD"	"12C8SDB"	5.72	1
+"58"	"Ler-1"	"12ConSD"	"12C8SDB"	5.87	1
+"59"	"Ler-1"	"12ConSD"	"12C8SDB"	5.73	1
+"60"	"Ler-1"	"12ConSD"	"12C8SDB"	NA	NA
+"61"	"Ler-1"	"12ConLD"	"12C15LDB"	6.81	2
+"62"	"Ler-1"	"12ConLD"	"12C15LDB"	5.19	2
+"63"	"Ler-1"	"12ConLD"	"12C15LDB"	5	2
+"64"	"Ler-1"	"12ConLD"	"12C15LDB"	5.99	2
+"65"	"Col (Lis)"	"12ConSD"	"12C8SDA"	4.29	2
+"66"	"Col (Lis)"	"12ConSD"	"12C8SDA"	3.45	1
+"67"	"Col (Lis)"	"12ConSD"	"12C8SDA"	5.72	2
+"68"	"Col (Lis)"	"12ConSD"	"12C8SDA"	6.16	1
+"69"	"Col (Lis)"	"12ConLD"	"12C16LDA"	8.2	2
+"70"	"Col (Lis)"	"12ConLD"	"12C16LDA"	6.45	2
+"71"	"Col (Lis)"	"12ConLD"	"12C16LDA"	6.04	2
+"72"	"Col (Lis)"	"12ConLD"	"12C16LDA"	5.63	2
+"73"	"Col (Lis)"	"12ConSD"	"12C8SDB"	5.57	2
+"74"	"Col (Lis)"	"12ConSD"	"12C8SDB"	6.5	2
+"75"	"Col (Lis)"	"12ConSD"	"12C8SDB"	6.49	2
+"76"	"Col (Lis)"	"12ConSD"	"12C8SDB"	6.34	2
+"77"	"Col (Lis)"	"12ConLD"	"12C15LDB"	5.04	2
+"78"	"Col (Lis)"	"12ConLD"	"12C15LDB"	5.32	2
+"79"	"Col (Lis)"	"12ConLD"	"12C15LDB"	4.04	2
+"80"	"Col (Lis)"	"12ConLD"	"12C15LDB"	5.09	2
+"81"	"phyB-1"	"12ConSD"	"12C8SDA"	7	0
+"82"	"phyB-1"	"12ConSD"	"12C8SDA"	9.19	0
+"83"	"phyB-1"	"12ConSD"	"12C8SDA"	7.96	0
+"84"	"phyB-1"	"12ConLD"	"12C16LDA"	11.47	2
+"85"	"phyB-1"	"12ConLD"	"12C16LDA"	12.58	2
+"86"	"phyB-1"	"12ConLD"	"12C16LDA"	12.98	2
+"87"	"phyB-1"	"12ConLD"	"12C16LDA"	10.41	2
+"88"	"phyB-1"	"12ConSD"	"12C8SDB"	9.51	0
+"89"	"phyB-1"	"12ConSD"	"12C8SDB"	12.95	0
+"90"	"phyB-1"	"12ConSD"	"12C8SDB"	11.33	0
+"91"	"phyB-1"	"12ConSD"	"12C8SDB"	11.43	0
+"92"	"phyB-1"	"12ConLD"	"12C15LDB"	12.09	2
+"93"	"phyB-1"	"12ConLD"	"12C15LDB"	10.46	2
+"94"	"phyB-1"	"12ConLD"	"12C15LDB"	13.46	2
+"95"	"phyB-1"	"12ConLD"	"12C15LDB"	9.71	1

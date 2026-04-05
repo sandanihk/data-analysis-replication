@@ -1,0 +1,1847 @@
+"Genotype"	"Background"	"Background.simple"	"Treatment"	"Treatment.V"	"Chamber.ID"	"Chamber.Irradiance"	"Vernalization"	"Daylength"	"Temperature"	"Fluctuation"	"Survival.Bolt"	"Bolt"	"Days.to.Bolt"	"Days.to.Flower"	"Rosette.leaf.num"	"Cauline.leaf.num"	"Notes"
+"1"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	66	79	56	10	NA
+"2"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	68	82	59	9	NA
+"3"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	65	80	57	9	NA
+"4"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	64	82	62	10	NA
+"5"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	69	84	52	9	NA
+"6"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	72	87	60	7	NA
+"7"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	72	87	61	8	NA
+"8"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	80	92	57	7	NA
+"9"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	87	103	64	7	NA
+"10"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	67	6	NA
+"11"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	79	96	70	7	NA
+"12"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	104	65	6	NA
+"13"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	103	68	7	NA
+"14"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	105	63	8	NA
+"15"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	105	63	7	NA
+"16"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	105	64	7	NA
+"17"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"18"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"19"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"20"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	104	113	73	10	NA
+"21"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	141	148	68	9	NA
+"22"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	108	116	68	7	NA
+"23"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	96	107	67	10	NA
+"24"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"25"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	120	134	73	8	NA
+"26"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"27"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"28"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	67	75	45	8	NA
+"29"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"30"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"31"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	41	50	35	5	NA
+"32"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	39	46	28	5	NA
+"33"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	42	52	40	6	NA
+"34"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	40	49	35	7	NA
+"35"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	42	51	37	8	NA
+"36"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	44	52	36	6	NA
+"37"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	47	56	42	6	NA
+"38"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	51	58	46	6	NA
+"39"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	67	NA	44	NA	NA
+"40"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	62	71	44	8	NA
+"41"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	70	NA	52	NA	NA
+"42"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	77	85	64	9	NA
+"43"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	72	80	55	10	NA
+"44"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	77	87	57	8	NA
+"45"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	71	85	55	8	NA
+"46"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	34	49	25	5	NA
+"47"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	34	46	26	3	NA
+"48"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	34	46	28	5	NA
+"49"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	29	44	22	6	NA
+"50"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	37	48	27	6	NA
+"51"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	35	47	20	2	NA
+"52"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	35	47	25	2	NA
+"53"	"co FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	35	48	18	3	NA
+"54"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	45	60	31	4	NA
+"55"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	46	63	30	4	NA
+"56"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	44	61	34	5	NA
+"57"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	46	61	33	3	NA
+"58"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	53	71	33	6	NA
+"59"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	66	30	5	NA
+"60"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	56	72	38	6	NA
+"61"	"co FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	64	23	3	NA
+"62"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	26	32	26	3	NA
+"63"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	24	30	16	4	NA
+"64"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	27	32	24	4	NA
+"65"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	28	33	23	4	NA
+"66"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	29	36	19	6	NA
+"67"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	27	32	22	4	NA
+"68"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	25	31	18	2	NA
+"69"	"co FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	29	35	25	5	NA
+"70"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	37	44	30	6	NA
+"71"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	43	29	4	NA
+"72"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	37	44	30	7	NA
+"73"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	43	28	7	NA
+"74"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	40	47	30	6	NA
+"75"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	34	41	30	5	NA
+"76"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	44	29	4	NA
+"77"	"co FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	43	29	3	NA
+"78"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	26	33	18	3	NA
+"79"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	26	32	19	2	NA
+"80"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	28	34	19	2	NA
+"81"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	26	32	18	3	NA
+"82"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	24	31	14	2	NA
+"83"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	24	32	18	3	NA
+"84"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	26	33	19	2	NA
+"85"	"co FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	24	33	17	2	NA
+"86"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	43	23	5	NA
+"87"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	29	38	23	6	NA
+"88"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	41	23	5	NA
+"89"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	34	42	22	5	NA
+"90"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	35	42	25	5	NA
+"91"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	41	26	6	NA
+"92"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	42	26	6	NA
+"93"	"co FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	41	24	6	NA
+"94"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	46	59	34	9	NA
+"95"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	46	59	37	9	NA
+"96"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	47	61	37	6	NA
+"97"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	46	59	34	7	NA
+"98"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	47	61	37	8	NA
+"99"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	51	63	40	5	NA
+"100"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	55	68	41	9	NA
+"101"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	51	66	38	7	NA
+"102"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	96	116	54	10	NA
+"103"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	51	12	NA
+"104"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	66	83	52	11	NA
+"105"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	86	50	11	NA
+"106"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	90	58	8	NA
+"107"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	103	64	8	NA
+"108"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	94	49	10	NA
+"109"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	71	89	53	10	NA
+"110"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	31	38	25	8	NA
+"111"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	32	39	24	7	NA
+"112"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	31	38	23	8	NA
+"113"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	30	36	23	4	NA
+"114"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	33	40	24	7	NA
+"115"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	31	40	26	7	NA
+"116"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	28	34	17	1	NA
+"117"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	31	38	27	7	NA
+"118"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	52	60	39	8	NA
+"119"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	47	54	39	6	NA
+"120"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	55	64	34	8	NA
+"121"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	48	55	40	5	NA
+"122"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	54	61	40	6	NA
+"123"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	48	56	38	8	NA
+"124"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	47	59	31	7	NA
+"125"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	64	72	45	9	NA
+"126"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	28	34	17	2	NA
+"127"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	26	33	16	2	NA
+"128"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	32	39	21	5	NA
+"129"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	27	34	18	2	NA
+"130"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	27	34	17	2	NA
+"131"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	29	36	19	4	NA
+"132"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	28	35	19	4	NA
+"133"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	32	39	23	5	NA
+"134"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	41	49	23	5	NA
+"135"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	39	44	23	2	NA
+"136"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	43	51	28	7	NA
+"137"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	45	54	30	7	NA
+"138"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	45	53	26	5	NA
+"139"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	45	54	30	7	NA
+"140"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	43	50	26	5	NA
+"141"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	44	52	26	7	NA
+"142"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	32	44	23	5	NA
+"143"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	29	43	18	4	NA
+"144"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	30	45	20	5	NA
+"145"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	29	43	19	3	NA
+"146"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	36	50	23	8	NA
+"147"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	34	47	22	3	NA
+"148"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	33	44	22	1	NA
+"149"	"co"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	30	45	19	5	NA
+"150"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	64	25	4	NA
+"151"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	45	61	33	4	NA
+"152"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	44	60	35	7	NA
+"153"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	48	62	26	2	NA
+"154"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	46	62	29	4	NA
+"155"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	64	30	3	NA
+"156"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	66	32	3	NA
+"157"	"co"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	45	62	29	3	NA
+"158"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	26	17	3	NA
+"159"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	20	27	16	3	NA
+"160"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	21	28	17	2	NA
+"161"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	22	29	19	4	NA
+"162"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	24	30	16	5	NA
+"163"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	25	31	17	5	NA
+"164"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	28	34	15	3	NA
+"165"	"co"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	22	29	17	3	NA
+"166"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	35	41	30	4	NA
+"167"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	34	40	31	4	NA
+"168"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	34	41	24	3	NA
+"169"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	33	40	29	4	NA
+"170"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	43	23	4	NA
+"171"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	44	28	3	NA
+"172"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	36	43	23	4	NA
+"173"	"co"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	36	43	26	3	NA
+"174"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	28	15	4	NA
+"175"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	15	2	NA
+"176"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	23	30	13	3	NA
+"177"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	27	15	3	NA
+"178"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	29	17	3	NA
+"179"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	23	30	14	3	NA
+"180"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	29	16	3	NA
+"181"	"co"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	23	29	15	2	NA
+"182"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	26	34	19	4	NA
+"183"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	27	35	21	5	NA
+"184"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	27	36	19	3	NA
+"185"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	32	40	21	4	NA
+"186"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	40	21	4	NA
+"187"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	40	24	5	NA
+"188"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	31	39	23	5	NA
+"189"	"co"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	30	39	21	7	NA
+"190"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	27	38	13	3	NA
+"191"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	24	36	13	2	NA
+"192"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	31	43	13	2	NA
+"193"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	27	38	15	4	NA
+"194"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	28	40	17	3	NA
+"195"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	30	40	15	4	NA
+"196"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	29	41	15	3	NA
+"197"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	32	43	14	3	NA
+"198"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	89	54	9	NA
+"199"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	73	91	57	10	NA
+"200"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	66	85	54	9	NA
+"201"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	89	52	9	NA
+"202"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	71	88	51	12	NA
+"203"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	52	9	NA
+"204"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	53	11	NA
+"205"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	48	11	NA
+"206"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	20	25	13	3	NA
+"207"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	21	27	13	2	NA
+"208"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	20	25	13	3	NA
+"209"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	19	24	12	3	NA
+"210"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	20	26	13	3	NA
+"211"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	19	24	13	3	NA
+"212"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	19	25	12	4	NA
+"213"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	20	25	11	3	NA
+"214"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	47	54	33	6	NA
+"215"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	47	54	40	5	NA
+"216"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	64	73	49	9	NA
+"217"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	49	57	37	6	NA
+"218"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	54	61	38	5	NA
+"219"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	52	59	36	5	NA
+"220"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	56	64	33	4	NA
+"221"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	53	60	41	6	NA
+"222"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	19	27	9	2	NA
+"223"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	18	25	12	1	NA
+"224"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	20	27	11	2	NA
+"225"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	24	30	9	2	NA
+"226"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	19	26	11	2	NA
+"227"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	21	27	12	2	NA
+"228"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	20	27	11	2	NA
+"229"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	19	28	12	1	NA
+"230"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	37	44	23	3	NA
+"231"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	39	45	16	2	NA
+"232"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	42	50	22	4	NA
+"233"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	48	55	36	7	NA
+"234"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	48	56	33	6	NA
+"235"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	49	56	31	5	NA
+"236"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	44	52	26	7	NA
+"237"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	39	46	23	2	NA
+"238"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	21	32	15	4	NA
+"239"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	34	14	4	NA
+"240"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	21	32	13	3	NA
+"241"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	21	31	13	2	NA
+"242"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	34	13	4	NA
+"243"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	33	13	2	NA
+"244"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	33	14	3	NA
+"245"	"Col Ama"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	34	14	3	NA
+"246"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	62	29	4	NA
+"247"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	45	60	32	5	NA
+"248"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	63	35	4	NA
+"249"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	46	61	30	4	NA
+"250"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	63	29	4	NA
+"251"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	64	29	4	NA
+"252"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	64	25	7	NA
+"253"	"Col Ama"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	63	28	4	NA
+"254"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	16	22	12	2	NA
+"255"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	17	22	12	4	NA
+"256"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	16	23	12	4	NA
+"257"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	23	14	3	NA
+"258"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	16	21	13	4	NA
+"259"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	17	22	16	4	NA
+"260"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	27	22	12	4	NA
+"261"	"Col Ama"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	17	22	12	5	NA
+"262"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	35	42	25	4	NA
+"263"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	38	45	26	8	NA
+"264"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	43	22	5	NA
+"265"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	35	41	28	5	NA
+"266"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	30	39	24	6	NA
+"267"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	34	41	29	7	NA
+"268"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	30	39	23	7	NA
+"269"	"Col Ama"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	43	27	6	NA
+"270"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	29	12	2	NA
+"271"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	25	14	2	NA
+"272"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	25	12	2	NA
+"273"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	18	24	10	1	NA
+"274"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	25	13	2	NA
+"275"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	24	13	3	NA
+"276"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	25	14	3	NA
+"277"	"Col Ama"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	24	12	2	NA
+"278"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	34	40	21	24	NA
+"279"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	26	33	16	2	NA
+"280"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	29	38	19	3	NA
+"281"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	32	40	22	4	NA
+"282"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	27	36	16	4	NA
+"283"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	26	33	18	2	NA
+"284"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	31	39	23	6	NA
+"285"	"Col Ama"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	27	36	19	4	NA
+"286"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	51	62	46	6	NA
+"287"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	49	60	33	3	NA
+"288"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	52	63	45	7	NA
+"289"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	48	59	33	6	NA
+"290"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	64	39	7	NA
+"291"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	54	66	38	8	NA
+"292"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	63	45	5	NA
+"293"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	67	81	36	9	NA
+"294"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	106	66	7	NA
+"295"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	107	70	9	NA
+"296"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	81	98	70	8	NA
+"297"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	104	63	6	NA
+"298"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	104	68	7	NA
+"299"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	94	116	62	6	NA
+"300"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	106	67	6	NA
+"301"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	90	106	64	5	NA
+"302"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	42	47	36	7	NA
+"303"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	46	52	35	6	NA
+"304"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	72	79	52	8	NA
+"305"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	69	76	53	7	NA
+"306"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	47	52	33	6	NA
+"307"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	68	73	51	8	NA
+"308"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	52	57	31	6	NA
+"309"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	53	59	40	6	NA
+"310"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"311"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"312"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"313"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"314"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	144	155	68	8	NA
+"315"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"316"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"317"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	104	112	65	9	NA
+"318"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	29	35	19	3	NA
+"319"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	30	38	24	3	NA
+"320"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	31	39	26	4	NA
+"321"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	31	38	25	3	NA
+"322"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	32	38	21	4	NA
+"323"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	27	34	19	1	NA
+"324"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	30	38	27	3	NA
+"325"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	32	40	23	3	NA
+"326"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	62	71	38	8	NA
+"327"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	63	71	40	7	NA
+"328"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	86	95	64	8	NA
+"329"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	56	79	52	8	NA
+"330"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	94	103	79	5	NA
+"331"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	77	85	57	10	NA
+"332"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	18	5	NA
+"333"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	34	17	5	NA
+"334"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	26	37	10	2	NA
+"335"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	17	5	NA
+"336"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	17	4	NA
+"337"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	35	16	5	NA
+"338"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	35	14	5	NA
+"339"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	34	16	5	NA
+"340"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	55	71	29	6	NA
+"341"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	51	69	39	7	NA
+"342"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	53	68	37	9	NA
+"343"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	45	59	30	4	NA
+"344"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	64	27	3	NA
+"345"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	51	68	37	5	NA
+"346"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	53	69	36	8	NA
+"347"	"Col FRI Ama"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	53	71	35	6	NA
+"348"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	21	26	13	3	NA
+"349"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	23	17	3	NA
+"350"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	13	3	NA
+"351"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	16	4	NA
+"352"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	23	15	4	NA
+"353"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	16	4	NA
+"354"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	25	15	3	NA
+"355"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"356"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	39	46	31	8	NA
+"357"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	44	36	9	NA
+"358"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	38	45	28	8	NA
+"359"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	35	42	30	6	NA
+"360"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	42	47	32	6	NA
+"361"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	39	45	28	3	NA
+"362"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	44	29	3	NA
+"363"	"Col FRI Ama"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	51	38	8	NA
+"364"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	26	16	3	NA
+"365"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	17	2	NA
+"366"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	18	26	17	3	NA
+"367"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	17	3	NA
+"368"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	16	3	NA
+"369"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	16	2	NA
+"370"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	16	3	NA
+"371"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	15	3	NA
+"372"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	35	42	24	4	NA
+"373"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	40	23	6	NA
+"374"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	42	23	4	NA
+"375"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	43	21	4	NA
+"376"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	42	23	5	NA
+"377"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	41	25	6	NA
+"378"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	40	27	6	NA
+"379"	"Col FRI Ama"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	40	22	6	NA
+"380"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	47	60	37	5	NA
+"381"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	48	61	41	6	NA
+"382"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	45	55	37	7	NA
+"383"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	48	60	35	3	NA
+"384"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	48	60	37	7	NA
+"385"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	51	64	40	6	NA
+"386"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	51	63	44	6	NA
+"387"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	64	37	5	NA
+"388"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	89	107	65	7	NA
+"389"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	94	111	68	7	NA
+"390"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	83	101	74	7	NA
+"391"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	63	8	NA
+"392"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	105	65	7	NA
+"393"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	105	62	6	NA
+"394"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	104	63	8	NA
+"395"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	106	65	6	NA
+"396"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	46	52	38	8	NA
+"397"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	65	70	48	8	NA
+"398"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	59	64	44	9	NA
+"399"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	73	79	49	7	NA
+"400"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	57	62	41	8	NA
+"401"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	57	64	43	7	NA
+"402"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	43	47	26	2	NA
+"403"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	56	61	46	7	NA
+"404"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"405"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"406"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	104	113	73	10	NA
+"407"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"408"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"409"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	137	148	68	9	NA
+"410"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"411"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	101	108	63	9	NA
+"412"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	30	38	26	5	NA
+"413"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	30	38	24	4	NA
+"414"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	31	38	23	4	NA
+"415"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	30	37	23	5	NA
+"416"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	21	29	16	3	NA
+"417"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	39	46	20	1	NA
+"418"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	28	35	18	3	NA
+"419"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	39	19	3	NA
+"420"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	71	80	53	8	NA
+"421"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	100	108	56	8	NA
+"422"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	77	86	58	9	NA
+"423"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	77	86	53	9	NA
+"424"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	34	15	4	NA
+"425"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	15	4	NA
+"426"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	16	4	NA
+"427"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	16	4	NA
+"428"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	34	16	5	NA
+"429"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	35	16	5	NA
+"430"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	34	17	4	NA
+"431"	"Col FRI SM"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	36	17	5	NA
+"432"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	45	61	28	3	NA
+"433"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	45	59	26	3	NA
+"434"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	44	59	27	5	NA
+"435"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	66	32	4	NA
+"436"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	64	33	3	NA
+"437"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	67	29	4	NA
+"438"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	66	30	4	NA
+"439"	"Col FRI SM"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	63	32	3	NA
+"440"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	25	15	3	NA
+"441"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"442"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	22	18	3	NA
+"443"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	17	22	16	4	NA
+"444"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	3	NA
+"445"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"446"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	15	5	NA
+"447"	"Col FRI SM"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"448"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	34	41	30	3	NA
+"449"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	37	44	30	9	NA
+"450"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	33	39	28	4	NA
+"451"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	34	41	31	6	NA
+"452"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	44	27	4	NA
+"453"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	36	43	28	5	NA
+"454"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	44	30	4	NA
+"455"	"Col FRI SM"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	34	42	26	6	NA
+"456"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	26	15	3	NA
+"457"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	27	25	14	4	NA
+"458"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	13	3	NA
+"459"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	18	26	16	3	NA
+"460"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	28	14	3	NA
+"461"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	26	15	3	NA
+"462"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	15	3	NA
+"463"	"Col FRI SM"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	25	14	3	NA
+"464"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	42	22	3	NA
+"465"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	39	22	5	NA
+"466"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	40	21	4	NA
+"467"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	40	22	5	NA
+"468"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	33	40	22	5	NA
+"469"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	40	22	6	NA
+"470"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	41	23	4	NA
+"471"	"Col FRI SM"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	35	42	22	4	NA
+"472"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	58	60	31	7	NA
+"473"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	50	61	34	7	NA
+"474"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	47	60	29	8	NA
+"475"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	48	60	34	7	NA
+"476"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	49	61	41	8	NA
+"477"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	55	65	34	8	NA
+"478"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	65	35	9	NA
+"479"	"cry1_cry2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	62	33	6	NA
+"480"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	77	94	51	9	NA
+"481"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	73	89	57	9	NA
+"482"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	88	52	11	NA
+"483"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	80	95	53	8	NA
+"484"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	83	100	51	9	NA
+"485"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	80	95	55	9	NA
+"486"	"cry1_cry2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	80	97	54	10	NA
+"487"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	26	31	19	3	NA
+"488"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	31	37	17	3	NA
+"489"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	27	32	18	3	NA
+"490"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	26	31	15	3	NA
+"491"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	26	31	16	2	NA
+"492"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	27	32	17	2	NA
+"493"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	27	31	12	3	NA
+"494"	"cry1_cry2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	30	36	20	6	NA
+"495"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	47	55	31	4	NA
+"496"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	48	57	36	6	NA
+"497"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	48	56	33	5	NA
+"498"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	47	54	34	5	NA
+"499"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	55	62	37	5	NA
+"500"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"501"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	64	72	40	7	NA
+"502"	"cry1_cry2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	56	64	32	3	NA
+"503"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	27	35	16	2	NA
+"504"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	26	33	15	2	NA
+"505"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	29	36	17	3	NA
+"506"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	29	36	16	4	NA
+"507"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	27	32	13	2	NA
+"508"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	32	39	16	3	NA
+"509"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	28	36	15	3	NA
+"510"	"cry1_cry2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	28	35	13	2	NA
+"511"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	45	52	28	7	NA
+"512"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	46	55	21	5	NA
+"513"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	44	51	24	4	NA
+"514"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	44	51	25	7	NA
+"515"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	47	57	28	6	NA
+"516"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	49	56	29	8	NA
+"517"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	53	60	30	4	NA
+"518"	"cry1_cry2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	44	52	22	6	NA
+"519"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	29	39	14	4	NA
+"520"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	26	37	12	3	NA
+"521"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	29	39	13	4	NA
+"522"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	33	44	15	4	NA
+"523"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	29	40	13	3	NA
+"524"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	30	41	15	4	NA
+"525"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	34	44	18	3	NA
+"526"	"cry1-304"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	34	46	16	5	NA
+"527"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	81	96	50	11	NA
+"528"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	73	91	55	10	NA
+"529"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	88	52	12	NA
+"530"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	89	54	11	NA
+"531"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	77	94	52	9	NA
+"532"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	77	95	51	10	NA
+"533"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	77	96	54	10	NA
+"534"	"cry1-304"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	49	10	NA
+"535"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	20	24	10	3	NA
+"536"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	20	26	10	3	NA
+"537"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	20	25	11	3	NA
+"538"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	20	25	10	4	NA
+"539"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	19	24	11	3	NA
+"540"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	21	26	11	3	NA
+"541"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	20	26	11	3	NA
+"542"	"cry1-304"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	21	27	11	4	NA
+"543"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	56	65	35	7	NA
+"544"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	45	52	27	6	NA
+"545"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	56	64	30	7	NA
+"546"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	55	62	40	7	NA
+"547"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	51	57	34	9	NA
+"548"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	51	59	32	7	NA
+"549"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	55	62	41	4	NA
+"550"	"cry1-304"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	57	64	38	6	NA
+"551"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	19	27	10	2	NA
+"552"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	20	26	9	2	NA
+"553"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	22	28	9	2	NA
+"554"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	20	27	10	2	NA
+"555"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	20	27	10	3	NA
+"556"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	19	26	10	2	NA
+"557"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	19	26	9	1	NA
+"558"	"cry1-304"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	19	25	8	2	NA
+"559"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	41	47	18	5	NA
+"560"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	47	55	25	7	NA
+"561"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	62	68	31	8	NA
+"562"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	51	59	26	8	NA
+"563"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	47	56	27	8	NA
+"564"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	44	53	21	6	NA
+"565"	"cry1-304"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	59	66	22	4	NA
+"566"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	38	49	24	5	NA
+"567"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	38	49	20	4	NA
+"568"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	42	54	23	5	NA
+"569"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	52	65	25	4	NA
+"570"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	40	52	23	5	NA
+"571"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	44	56	16	4	NA
+"572"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	46	59	24	6	NA
+"573"	"cry2-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	44	56	21	4	NA
+"574"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	56	8	NA
+"575"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	60	8	NA
+"576"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	77	92	58	8	NA
+"577"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	77	94	50	8	NA
+"578"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	102	57	7	NA
+"579"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	104	56	8	NA
+"580"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	101	54	8	NA
+"581"	"cry2-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	53	9	NA
+"582"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	25	30	12	2	NA
+"583"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	25	30	10	1	NA
+"584"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	24	29	15	3	NA
+"585"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	23	29	12	3	NA
+"586"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	24	29	14	3	NA
+"587"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	22	28	15	2	NA
+"588"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	23	28	14	3	NA
+"589"	"cry2-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	25	31	15	3	NA
+"590"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	53	60	35	7	NA
+"591"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	53	60	38	8	NA
+"592"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	56	62	36	3	NA
+"593"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	64	71	40	7	NA
+"594"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	53	60	40	6	NA
+"595"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	55	62	39	5	NA
+"596"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	59	65	36	5	NA
+"597"	"cry2-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	60	66	37	5	NA
+"598"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	23	30	13	2	NA
+"599"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	23	29	12	2	NA
+"600"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	24	31	11	3	NA
+"601"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	21	28	11	1	NA
+"602"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	22	28	11	2	NA
+"603"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	23	29	10	2	NA
+"604"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	23	29	12	1	NA
+"605"	"cry2-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	23	28	11	1	NA
+"606"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	45	53	24	5	NA
+"607"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	45	53	17	4	NA
+"608"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	51	57	33	5	NA
+"609"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	51	58	28	4	NA
+"610"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	53	60	34	3	NA
+"611"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	49	56	28	6	NA
+"612"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	50	57	32	6	NA
+"613"	"cry2-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	55	62	33	2	NA
+"614"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	61	73	52	10	NA
+"615"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	62	76	56	11	NA
+"616"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	62	75	55	11	NA
+"617"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	72	84	47	11	NA
+"618"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	60	72	51	12	NA
+"619"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	64	79	46	11	NA
+"620"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	63	77	54	11	NA
+"621"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	66	79	47	12	NA
+"622"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	94	112	69	8	NA
+"623"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	94	116	69	9	NA
+"624"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	86	106	70	7	NA
+"625"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	90	109	59	8	NA
+"626"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	104	67	8	NA
+"627"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	107	67	5	NA
+"628"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	104	73	6	NA
+"629"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	106	64	6	NA
+"630"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	82	89	60	9	NA
+"631"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	69	75	51	7	NA
+"632"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	96	116	56	12	NA
+"633"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	73	82	61	11	NA
+"634"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	61	68	44	10	NA
+"635"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	88	94	57	8	NA
+"636"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	96	103	55	8	NA
+"637"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	82	90	58	9	NA
+"638"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"639"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"640"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"641"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"642"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"643"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	46	54	28	3	NA
+"644"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	48	56	22	2	NA
+"645"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	40	46	24	2	NA
+"646"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	38	46	23	2	NA
+"647"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	48	56	26	3	NA
+"648"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	39	47	24	0	NA
+"649"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	47	54	30	5	NA
+"650"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	118	130	92	9	NA
+"651"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	98	111	66	7	NA
+"652"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	93	106	61	14	NA
+"653"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	112	123	77	10	NA
+"654"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	35	18	5	NA
+"655"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	36	17	3	NA
+"656"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	28	39	17	4	NA
+"657"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	28	39	15	3	NA
+"658"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	26	38	15	4	NA
+"659"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	37	51	17	4	NA
+"660"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	37	16	4	NA
+"661"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	34	46	15	3	NA
+"662"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	71	91	46	9	NA
+"663"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	55	72	37	7	NA
+"664"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	59	75	45	7	NA
+"665"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	69	88	48	11	NA
+"666"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	72	87	42	11	NA
+"667"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	66	82	38	6	NA
+"668"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	76	37	7	NA
+"669"	"fca-9 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	56	72	32	8	NA
+"670"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	25	16	3	NA
+"671"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	30	35	15	3	NA
+"672"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	23	29	13	3	NA
+"673"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	26	32	16	2	NA
+"674"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	26	30	12	2	NA
+"675"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	22	28	14	2	NA
+"676"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	21	27	14	4	NA
+"677"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	21	28	14	4	NA
+"678"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	44	53	26	5	NA
+"679"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	37	44	33	6	NA
+"680"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	34	41	25	2	NA
+"681"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	43	49	33	9	NA
+"682"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	46	30	4	NA
+"683"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	44	29	4	NA
+"684"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	40	46	27	2	NA
+"685"	"fca-9 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	48	59	22	5	NA
+"686"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	28	34	11	2	NA
+"687"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	13	2	NA
+"688"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	25	31	9	2	NA
+"689"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	27	35	12	2	NA
+"690"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	25	33	10	1	NA
+"691"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	26	33	12	2	NA
+"692"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	23	29	10	2	NA
+"693"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	30	39	19	5	NA
+"694"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	43	17	4	NA
+"695"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	38	44	22	4	NA
+"696"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	35	42	21	4	NA
+"697"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	67	76	31	8	NA
+"698"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	46	19	3	NA
+"699"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	52	60	34	7	NA
+"700"	"fca-9 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	45	19	1	NA
+"701"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	54	65	42	9	NA
+"702"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	57	69	48	9	NA
+"703"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	56	69	49	10	NA
+"704"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	54	66	43	8	NA
+"705"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	57	68	40	9	NA
+"706"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	60	72	40	9	NA
+"707"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	56	69	43	8	NA
+"708"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	62	76	42	10	NA
+"709"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	94	108	64	6	NA
+"710"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	83	102	66	8	NA
+"711"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	82	100	60	6	NA
+"712"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	103	61	7	NA
+"713"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	105	58	6	NA
+"714"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	96	116	49	8	NA
+"715"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	103	63	7	NA
+"716"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	106	59	6	NA
+"717"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	59	65	44	9	NA
+"718"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	59	65	37	8	NA
+"719"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	53	60	40	8	NA
+"720"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	56	61	41	9	NA
+"721"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	69	77	54	10	NA
+"722"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	56	62	39	8	NA
+"723"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	73	80	41	7	NA
+"724"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	64	70	46	10	NA
+"725"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"726"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	118	125	77	9	NA
+"727"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"728"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"729"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"730"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"731"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"732"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"733"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	35	42	20	3	NA
+"734"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	38	45	22	3	NA
+"735"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	38	44	21	4	NA
+"736"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	37	42	18	4	NA
+"737"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	39	44	19	2	NA
+"738"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	37	42	18	4	NA
+"739"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	40	47	22	1	NA
+"740"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	97	108	61	11	NA
+"741"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	94	105	62	10	NA
+"742"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	86	97	62	10	NA
+"743"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	92	103	60	10	NA
+"744"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	26	38	14	4	NA
+"745"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	26	37	15	3	NA
+"746"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	37	12	3	NA
+"747"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	28	40	12	3	NA
+"748"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	27	38	13	3	NA
+"749"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	28	41	13	3	NA
+"750"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	37	48	11	2	NA
+"751"	"fca-9"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	36	12	3	NA
+"752"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	49	67	22	1	NA
+"753"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	46	63	26	3	NA
+"754"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	66	34	4	NA
+"755"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	64	27	2	NA
+"756"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	48	66	31	2	NA
+"757"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	77	31	5	NA
+"758"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	58	73	35	6	NA
+"759"	"fca-9"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	49	66	31	3	NA
+"760"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	25	14	3	NA
+"761"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	20	26	14	3	NA
+"762"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	20	26	14	3	NA
+"763"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	20	26	13	3	NA
+"764"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"765"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	25	16	4	NA
+"766"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	21	26	13	3	NA
+"767"	"fca-9"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	15	3	NA
+"768"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	42	24	3	NA
+"769"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	42	48	32	8	NA
+"770"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	34	61	20	3	NA
+"771"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	43	49	33	8	NA
+"772"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	39	46	28	3	NA
+"773"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	44	51	31	6	NA
+"774"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	50	26	5	NA
+"775"	"fca-9"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	47	56	32	8	NA
+"776"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	12	2	NA
+"777"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	22	29	11	2	NA
+"778"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	32	14	3	NA
+"779"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	12	2	NA
+"780"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	25	13	2	NA
+"781"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	12	2	NA
+"782"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	26	11	3	NA
+"783"	"fca-9"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	22	28	10	3	NA
+"784"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	32	40	20	4	NA
+"785"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	29	39	22	6	NA
+"786"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	34	NA	NA	NA	NA
+"787"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	41	19	4	NA
+"788"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	44	52	20	4	NA
+"789"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	43	19	3	NA
+"790"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	43	51	25	5	NA
+"791"	"fca-9"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	42	14	3	NA
+"792"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	54	68	44	9	NA
+"793"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	61	71	48	8	NA
+"794"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	54	66	44	8	NA
+"795"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	54	68	46	11	NA
+"796"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	58	71	39	12	NA
+"797"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	63	76	45	11	NA
+"798"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	60	76	51	12	NA
+"799"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	61	74	41	10	NA
+"800"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	98	120	64	10	NA
+"801"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	98	120	63	8	NA
+"802"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	86	105	67	9	NA
+"803"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	107	69	8	NA
+"804"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	90	111	64	8	NA
+"805"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	98	120	61	8	NA
+"806"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	108	67	8	NA
+"807"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	111	65	7	NA
+"808"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	67	74	55	9	NA
+"809"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	96	103	40	7	NA
+"810"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	71	77	48	7	NA
+"811"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	74	82	60	10	NA
+"812"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	90	97	58	9	NA
+"813"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	69	79	48	7	NA
+"814"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	92	108	63	8	NA
+"815"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	69	79	48	9	NA
+"816"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"817"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	123	134	75	9	NA
+"818"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"819"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	127	139	77	6	NA
+"820"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"821"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"822"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"823"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	146	155	70	12	NA
+"824"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	47	55	37	5	NA
+"825"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	46	56	31	5	NA
+"826"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	46	55	33	5	NA
+"827"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	47	55	36	5	NA
+"828"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	48	57	28	4	NA
+"829"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	52	62	37	5	NA
+"830"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	41	50	26	2	NA
+"831"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	51	58	37	5	NA
+"832"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	91	100	54	8	NA
+"833"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	104	118	72	6	NA
+"834"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	116	123	74	8	NA
+"835"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	141	153	80	7	NA
+"836"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	35	15	6	NA
+"837"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	34	18	5	NA
+"838"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	34	18	5	NA
+"839"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	27	38	16	4	NA
+"840"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	16	4	NA
+"841"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	17	5	NA
+"842"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	37	16	4	NA
+"843"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	35	13	3	NA
+"844"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	55	74	31	7	NA
+"845"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	51	67	34	4	NA
+"846"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	48	68	41	7	NA
+"847"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	47	67	31	5	NA
+"848"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	47	66	32	4	NA
+"849"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	57	74	31	5	NA
+"850"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	75	39	7	NA
+"851"	"fld-3 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	63	81	37	8	NA
+"852"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	16	4	NA
+"853"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	25	16	3	NA
+"854"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	17	4	NA
+"855"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	16	5	NA
+"856"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	24	17	3	NA
+"857"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	16	5	NA
+"858"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	16	4	NA
+"859"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	25	16	4	NA
+"860"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	37	44	27	6	NA
+"861"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	47	35	10	NA
+"862"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	38	46	28	7	NA
+"863"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	47	36	9	NA
+"864"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	47	56	36	9	NA
+"865"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	41	49	34	7	NA
+"866"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	48	59	35	9	NA
+"867"	"fld-3 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	40	47	31	7	NA
+"868"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	26	32	16	1	NA
+"869"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	14	2	NA
+"870"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	16	3	NA
+"871"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	16	3	NA
+"872"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	25	12	2	NA
+"873"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	16	4	NA
+"874"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	16	3	NA
+"875"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	27	15	3	NA
+"876"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	43	25	4	NA
+"877"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	40	23	7	NA
+"878"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	38	44	26	5	NA
+"879"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	43	25	5	NA
+"880"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	55	26	4	NA
+"881"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	42	50	25	9	NA
+"882"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	43	25	4	NA
+"883"	"fld-3 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	35	42	24	3	NA
+"884"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	51	62	43	7	NA
+"885"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	58	61	40	6	NA
+"886"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	49	60	35	7	NA
+"887"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	55	67	41	10	NA
+"888"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	49	61	38	5	NA
+"889"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	64	29	7	NA
+"890"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	59	71	40	9	NA
+"891"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	66	42	7	NA
+"892"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	90	108	64	6	NA
+"893"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	106	66	7	NA
+"894"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	105	68	8	NA
+"895"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	90	108	63	7	NA
+"896"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	86	105	64	7	NA
+"897"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	90	111	65	7	NA
+"898"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	92	111	62	7	NA
+"899"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	92	109	60	8	NA
+"900"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	64	70	54	7	NA
+"901"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	66	72	45	8	NA
+"902"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	48	55	36	7	NA
+"903"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	53	60	35	9	NA
+"904"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	62	69	46	6	NA
+"905"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	65	71	37	8	NA
+"906"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	49	56	35	6	NA
+"907"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	60	66	48	8	NA
+"908"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	144	NA	NA	NA	NA
+"909"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"910"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"911"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	137	148	78	12	NA
+"912"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	123	132	68	9	NA
+"913"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"914"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	130	144	96	12	NA
+"915"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	139	153	69	12	NA
+"916"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	39	46	28	3	NA
+"917"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	36	46	28	5	NA
+"918"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	42	51	31	2	NA
+"919"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	39	46	29	3	NA
+"920"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	32	41	25	4	NA
+"921"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	42	50	25	4	NA
+"922"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	45	52	31	6	NA
+"923"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	46	54	31	6	NA
+"924"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	104	116	69	9	NA
+"925"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	95	105	66	11	NA
+"926"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	89	98	64	9	NA
+"927"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	100	111	56	9	NA
+"928"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	15	4	NA
+"929"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	15	4	NA
+"930"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	35	13	3	NA
+"931"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	17	4	NA
+"932"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	15	5	NA
+"933"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	37	15	4	NA
+"934"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	37	15	4	NA
+"935"	"fld-3"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	34	15	5	NA
+"936"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	59	84	46	9	NA
+"937"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	61	79	43	8	NA
+"938"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	60	79	46	9	NA
+"939"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	64	84	40	10	NA
+"940"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	50	68	35	6	NA
+"941"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	76	36	8	NA
+"942"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	76	40	9	NA
+"943"	"fld-3"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	79	40	9	NA
+"944"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	17	4	NA
+"945"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	15	3	NA
+"946"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	23	16	3	NA
+"947"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	16	23	17	4	NA
+"948"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	13	3	NA
+"949"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"950"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	14	3	NA
+"951"	"fld-3"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	14	3	NA
+"952"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	45	53	29	7	NA
+"953"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	38	46	34	8	NA
+"954"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	47	55	27	4	NA
+"955"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	49	36	10	NA
+"956"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	46	56	35	9	NA
+"957"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	45	30	3	NA
+"958"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	52	32	9	NA
+"959"	"fld-3"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	46	55	38	10	NA
+"960"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	28	15	4	NA
+"961"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	27	16	4	NA
+"962"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	16	3	NA
+"963"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	26	15	3	NA
+"964"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	16	3	NA
+"965"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	27	16	3	NA
+"966"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	16	2	NA
+"967"	"fld-3"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	26	14	2	NA
+"968"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	44	25	3	NA
+"969"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	35	42	24	5	NA
+"970"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	40	23	5	NA
+"971"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	44	26	3	NA
+"972"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	41	49	26	8	NA
+"973"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	44	28	3	NA
+"974"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	43	24	6	NA
+"975"	"fld-3"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	53	19	4	NA
+"976"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	31	44	21	2	NA
+"977"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	42	52	27	7	NA
+"978"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	36	51	25	8	NA
+"979"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	40	52	25	7	NA
+"980"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	41	53	25	5	NA
+"981"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	41	55	26	9	NA
+"982"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	40	52	26	7	NA
+"983"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	45	57	26	9	NA
+"984"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	81	102	61	9	NA
+"985"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	75	96	63	9	NA
+"986"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	74	94	57	10	NA
+"987"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	79	97	63	6	NA
+"988"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	62	6	NA
+"989"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	105	59	7	NA
+"990"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	105	63	8	NA
+"991"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	103	61	7	NA
+"992"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	30	37	26	8	NA
+"993"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	79	85	51	9	NA
+"994"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	48	55	39	7	NA
+"995"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	37	43	27	4	NA
+"996"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	44	50	31	7	NA
+"997"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	29	36	22	4	NA
+"998"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	37	43	24	5	NA
+"999"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	29	35	23	5	NA
+"1000"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	95	104	64	10	NA
+"1001"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	100	113	75	9	NA
+"1002"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	89	98	58	12	NA
+"1003"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	101	114	82	6	NA
+"1004"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	113	123	65	12	NA
+"1005"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1006"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	125	134	62	12	NA
+"1007"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	31	40	27	5	NA
+"1008"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	33	40	27	5	NA
+"1009"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	37	43	26	2	NA
+"1010"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	35	41	23	5	NA
+"1011"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	39	25	5	NA
+"1012"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	34	41	27	4	NA
+"1013"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	38	29	4	NA
+"1014"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	35	41	26	4	NA
+"1015"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	77	86	58	9	NA
+"1016"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	73	82	52	10	NA
+"1017"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	79	87	55	9	NA
+"1018"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	80	90	52	9	NA
+"1019"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	34	15	3	NA
+"1020"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	15	6	NA
+"1021"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	16	4	NA
+"1022"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	34	15	3	NA
+"1023"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	35	16	5	NA
+"1024"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	35	15	4	NA
+"1025"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	15	4	NA
+"1026"	"flk"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	35	16	4	NA
+"1027"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	60	79	39	10	NA
+"1028"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	53	73	39	8	NA
+"1029"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	53	72	40	9	NA
+"1030"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	52	71	34	6	NA
+"1031"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	54	72	36	7	NA
+"1032"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	55	76	39	7	NA
+"1033"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	73	37	6	NA
+"1034"	"flk"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	79	38	8	NA
+"1035"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	15	4	NA
+"1036"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	20	25	15	3	NA
+"1037"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	16	23	16	5	NA
+"1038"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	15	3	NA
+"1039"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	15	4	NA
+"1040"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	25	17	5	NA
+"1041"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	20	25	13	4	NA
+"1042"	"flk"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	13	3	NA
+"1043"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	43	49	29	9	NA
+"1044"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	35	42	33	5	NA
+"1045"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	46	54	33	6	NA
+"1046"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	41	49	34	10	NA
+"1047"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	44	29	5	NA
+"1048"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	37	45	27	5	NA
+"1049"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	41	47	32	4	NA
+"1050"	"flk"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	45	53	27	6	NA
+"1051"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	28	14	3	NA
+"1052"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	28	15	3	NA
+"1053"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	28	17	3	NA
+"1054"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	14	3	NA
+"1055"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	28	17	3	NA
+"1056"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	29	15	4	NA
+"1057"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	24	30	12	3	NA
+"1058"	"flk"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	26	13	3	NA
+"1059"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	34	41	26	7	NA
+"1060"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	43	20	3	NA
+"1061"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	39	46	26	3	NA
+"1062"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	43	23	6	NA
+"1063"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	44	26	4	NA
+"1064"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	45	31	5	NA
+"1065"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	40	48	30	8	NA
+"1066"	"flk"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	44	25	3	NA
+"1067"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	49	68	50	10	NA
+"1068"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	57	73	48	16	NA
+"1069"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	49	68	42	10	NA
+"1070"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	52	66	45	11	NA
+"1071"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	54	69	42	12	NA
+"1072"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	60	72	40	11	NA
+"1073"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	55	67	38	12	NA
+"1074"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	59	71	38	12	NA
+"1075"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	98	116	75	10	NA
+"1076"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	92	111	71	10	NA
+"1077"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	94	113	72	9	NA
+"1078"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	98	118	71	10	NA
+"1079"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	102	120	73	10	NA
+"1080"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	98	120	62	10	NA
+"1081"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	98	118	70	12	NA
+"1082"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	89	107	71	8	NA
+"1083"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	100	107	67	14	NA
+"1084"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	98	107	75	8	NA
+"1085"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	104	112	72	11	NA
+"1086"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	99	104	60	10	NA
+"1087"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	90	97	48	10	NA
+"1088"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1089"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1090"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1091"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1092"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1093"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1094"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1095"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1096"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	67	80	44	6	NA
+"1097"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	55	66	40	5	NA
+"1098"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	53	66	40	6	NA
+"1099"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	64	71	NA	NA	NA
+"1100"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	67	NA	NA	NA	NA
+"1101"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	72	80	57	5	NA
+"1102"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	53	64	32	6	NA
+"1103"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	71	NA	55	8	NA
+"1104"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1105"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1106"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	102	118	84	10	NA
+"1107"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1108"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	36	49	16	4	NA
+"1109"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	37	17	5	NA
+"1110"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	28	39	19	6	NA
+"1111"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	28	39	15	4	NA
+"1112"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	27	40	15	5	NA
+"1113"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	28	41	12	4	NA
+"1114"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	38	50	17	6	NA
+"1115"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	40	15	5	NA
+"1116"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	54	71	25	8	NA
+"1117"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	64	83	54	11	NA
+"1118"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	60	75	46	9	NA
+"1119"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	55	73	44	9	NA
+"1120"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	64	83	55	12	NA
+"1121"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	53	73	30	6	NA
+"1122"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	57	76	44	9	NA
+"1123"	"fpa-7 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	71	91	52	9	NA
+"1124"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	26	15	3	NA
+"1125"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	22	28	15	2	NA
+"1126"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	21	26	14	5	NA
+"1127"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	25	15	4	NA
+"1128"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	25	15	4	NA
+"1129"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	20	27	17	6	NA
+"1130"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	25	11	5	NA
+"1131"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	20	26	14	4	NA
+"1132"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	47	54	31	4	NA
+"1133"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	38	46	32	8	NA
+"1134"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	67	76	42	5	NA
+"1135"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	41	48	40	8	NA
+"1136"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	47	54	41	8	NA
+"1137"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	44	51	31	8	NA
+"1138"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	44	50	25	6	NA
+"1139"	"fpa-7 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	39	46	28	5	NA
+"1140"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	24	32	14	0	NA
+"1141"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	28	13	3	NA
+"1142"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	28	13	3	NA
+"1143"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	26	35	17	2	NA
+"1144"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	18	25	13	3	NA
+"1145"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	29	38	15	3	NA
+"1146"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	28	36	17	3	NA
+"1147"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	29	39	19	5	NA
+"1148"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	29	38	17	7	NA
+"1149"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	44	24	3	NA
+"1150"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	38	45	28	4	NA
+"1151"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	42	22	5	NA
+"1152"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	49	56	34	8	NA
+"1153"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	45	35	4	NA
+"1154"	"fpa-7 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	44	22	2	NA
+"1155"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	48	59	36	4	NA
+"1156"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	43	55	34	8	NA
+"1157"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	47	59	32	5	NA
+"1158"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	53	65	40	9	NA
+"1159"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	45	57	33	7	NA
+"1160"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	48	60	26	6	NA
+"1161"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	46	59	35	6	NA
+"1162"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	44	56	30	7	NA
+"1163"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	64	7	NA
+"1164"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	68	9	NA
+"1165"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	83	98	68	9	NA
+"1166"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	62	8	NA
+"1167"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	66	8	NA
+"1168"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	105	62	7	NA
+"1169"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	60	7	NA
+"1170"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	64	8	NA
+"1171"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	98	NA	56	5	NA
+"1172"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	42	48	34	6	NA
+"1173"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	81	86	60	10	NA
+"1174"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	77	86	53	13	NA
+"1175"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	68	74	46	7	NA
+"1176"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	60	66	47	6	NA
+"1177"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	71	83	50	9	NA
+"1178"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1179"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1180"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1181"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1182"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1183"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1184"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1185"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1186"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	39	52	33	1	NA
+"1187"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	45	56	31	6	NA
+"1188"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	46	56	40	5	NA
+"1189"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	59	69	50	5	NA
+"1190"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	67	79	55	4	NA
+"1191"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	66	76	52	6	NA
+"1192"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	46	55	39	5	NA
+"1193"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	69	82	57	4	NA
+"1194"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1195"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	103	116	75	7	NA
+"1196"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	99	113	100	10	NA
+"1197"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1198"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	27	37	14	3	NA
+"1199"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	36	16	3	NA
+"1200"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	26	38	16	3	NA
+"1201"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	34	16	4	NA
+"1202"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	16	4	NA
+"1203"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	16	4	NA
+"1204"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	22	36	16	3	NA
+"1205"	"fpa-7"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	37	16	4	NA
+"1206"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	62	81	41	11	NA
+"1207"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	51	67	35	5	NA
+"1208"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	51	69	43	9	NA
+"1209"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	55	72	42	8	NA
+"1210"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	54	70	34	7	NA
+"1211"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	55	71	33	6	NA
+"1212"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	76	43	8	NA
+"1213"	"fpa-7"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	75	44	9	NA
+"1214"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	16	4	NA
+"1215"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	26	14	4	NA
+"1216"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	23	16	4	NA
+"1217"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	18	4	NA
+"1218"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	16	4	NA
+"1219"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	24	17	3	NA
+"1220"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	17	4	NA
+"1221"	"fpa-7"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	16	3	NA
+"1222"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	69	44	28	8	NA
+"1223"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	39	47	36	9	NA
+"1224"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	47	34	8	NA
+"1225"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	38	44	30	9	NA
+"1226"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	44	51	40	10	NA
+"1227"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	38	44	29	5	NA
+"1228"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	51	34	8	NA
+"1229"	"fpa-7"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	50	27	8	NA
+"1230"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	27	17	4	NA
+"1231"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	18	26	16	3	NA
+"1232"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	18	26	15	3	NA
+"1233"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	27	16	3	NA
+"1234"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	28	16	4	NA
+"1235"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	25	16	4	NA
+"1236"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	17	3	NA
+"1237"	"fpa-7"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	18	25	16	2	NA
+"1238"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	33	40	26	5	NA
+"1239"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	35	43	21	5	NA
+"1240"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	38	44	25	3	NA
+"1241"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	35	42	28	5	NA
+"1242"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	43	23	4	NA
+"1243"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	35	43	25	4	NA
+"1244"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	44	28	5	NA
+"1245"	"fpa-7"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	34	42	24	3	NA
+"1246"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	42	45	32	11	NA
+"1247"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	39	52	27	7	NA
+"1248"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	39	56	34	11	NA
+"1249"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	42	56	27	9	NA
+"1250"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	44	59	29	9	NA
+"1251"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	43	57	26	7	NA
+"1252"	"ft-10"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	42	55	29	9	NA
+"1253"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	53	9	NA
+"1254"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	91	54	10	NA
+"1255"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	72	90	59	11	NA
+"1256"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	71	88	54	11	NA
+"1257"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	71	89	54	11	NA
+"1258"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	77	95	54	11	NA
+"1259"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	91	58	10	NA
+"1260"	"ft-10"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	73	92	55	10	NA
+"1261"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	27	32	20	3	NA
+"1262"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	27	34	16	2	NA
+"1263"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	26	31	16	2	NA
+"1264"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	24	30	15	3	NA
+"1265"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	27	31	17	2	NA
+"1266"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	28	34	19	2	NA
+"1267"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	24	31	15	2	NA
+"1268"	"ft-10"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	26	32	18	3	NA
+"1269"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	57	62	40	7	NA
+"1270"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	52	60	39	9	NA
+"1271"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	47	54	33	6	NA
+"1272"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	48	56	38	5	NA
+"1273"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	51	58	37	8	NA
+"1274"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	51	59	36	5	NA
+"1275"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	62	68	38	6	NA
+"1276"	"ft-10"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	56	64	39	4	NA
+"1277"	"ft-10"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	26	34	16	2	NA
+"1278"	"ft-10"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	25	31	13	2	NA
+"1279"	"ft-10"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	27	34	17	2	NA
+"1280"	"ft-10"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	26	33	16	3	NA
+"1281"	"ft-10"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	28	34	17	2	NA
+"1282"	"ft-10"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	29	37	19	5	NA
+"1283"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	43	52	32	8	NA
+"1284"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	43	51	25	6	NA
+"1285"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	46	53	28	5	NA
+"1286"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	44	51	31	7	NA
+"1287"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	50	56	30	7	NA
+"1288"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	42	51	27	7	NA
+"1289"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	42	50	27	6	NA
+"1290"	"ft-10"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	44	53	22	7	NA
+"1291"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	61	73	52	10	NA
+"1292"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	61	72	53	8	NA
+"1293"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	55	69	48	8	NA
+"1294"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	61	72	47	8	NA
+"1295"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	67	80	38	8	NA
+"1296"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	61	75	50	7	NA
+"1297"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	65	79	52	9	NA
+"1298"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	67	80	41	10	NA
+"1299"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	94	116	60	9	NA
+"1300"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	93	113	71	7	NA
+"1301"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	86	105	70	7	NA
+"1302"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	108	65	8	NA
+"1303"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	107	63	7	NA
+"1304"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	98	120	47	5	NA
+"1305"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	107	65	7	NA
+"1306"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	90	109	63	6	NA
+"1307"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	83	91	50	9	NA
+"1308"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	100	108	80	8	NA
+"1309"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	116	132	67	4	NA
+"1310"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	71	79	60	6	NA
+"1311"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	88	96	60	7	NA
+"1312"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	95	101	79	7	NA
+"1313"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	87	95	54	5	NA
+"1314"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	98	106	70	8	NA
+"1315"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1316"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1317"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1318"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1319"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1320"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1321"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1322"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1323"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	37	44	32	3	NA
+"1324"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	41	48	35	1	NA
+"1325"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	38	46	29	2	NA
+"1326"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	46	55	34	4	NA
+"1327"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	46	52	35	4	NA
+"1328"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	65	73	47	5	NA
+"1329"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	45	55	34	3	NA
+"1330"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	47	55	43	3	NA
+"1331"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	71	NA	48	NA	NA
+"1332"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1333"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1334"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"N"	162	NA	NA	NA	NA
+"1335"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	141	148	94	7	NA
+"1336"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	27	39	17	3	NA
+"1337"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	36	15	3	NA
+"1338"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	26	36	16	4	NA
+"1339"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	36	16	3	NA
+"1340"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	31	44	19	3	NA
+"1341"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	15	4	NA
+"1342"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	28	40	18	3	NA
+"1343"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	26	37	15	4	NA
+"1344"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	59	76	39	8	NA
+"1345"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	59	75	42	9	NA
+"1346"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	66	84	49	9	NA
+"1347"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	60	79	43	8	NA
+"1348"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	79	40	8	NA
+"1349"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	61	79	38	9	NA
+"1350"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	71	92	42	10	NA
+"1351"	"fve-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	85	102	35	6	NA
+"1352"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	17	3	NA
+"1353"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	23	16	3	NA
+"1354"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	17	3	NA
+"1355"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	26	14	4	NA
+"1356"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	20	25	15	3	NA
+"1357"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	20	24	17	4	NA
+"1358"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	21	26	13	3	NA
+"1359"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	22	27	11	4	NA
+"1360"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	56	64	35	6	NA
+"1361"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	47	35	7	NA
+"1362"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	47	56	32	4	NA
+"1363"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	46	52	43	5	NA
+"1364"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	57	64	38	5	NA
+"1365"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	48	59	40	6	NA
+"1366"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	46	54	37	8	NA
+"1367"	"fve-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	48	58	33	7	NA
+"1368"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	29	17	2	NA
+"1369"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	24	30	16	2	NA
+"1370"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	23	29	17	3	NA
+"1371"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	23	29	19	2	NA
+"1372"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	24	30	14	3	NA
+"1373"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	28	18	2	NA
+"1374"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	23	29	17	3	NA
+"1375"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	17	2	NA
+"1376"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	43	26	2	NA
+"1377"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	45	26	6	NA
+"1378"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	42	49	30	8	NA
+"1379"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	44	28	3	NA
+"1380"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	48	56	31	6	NA
+"1381"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	43	27	3	NA
+"1382"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	49	56	31	5	NA
+"1383"	"fve-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	48	56	32	5	NA
+"1384"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	45	56	28	6	NA
+"1385"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	41	52	22	5	NA
+"1386"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	39	52	21	5	NA
+"1387"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	38	49	27	6	NA
+"1388"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	43	56	28	9	NA
+"1389"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	43	55	24	6	NA
+"1390"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	43	56	28	7	NA
+"1391"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	47	59	26	6	NA
+"1392"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	87	109	51	8	NA
+"1393"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	79	100	56	NA	NA
+"1394"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	79	95	63	10	NA
+"1395"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	81	98	56	8	NA
+"1396"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	81	98	54	7	NA
+"1397"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	81	102	46	6	NA
+"1398"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	104	59	7	NA
+"1399"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	56	8	NA
+"1400"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	36	41	29	4	NA
+"1401"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	39	45	30	3	NA
+"1402"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	32	38	26	3	NA
+"1403"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	31	37	26	4	NA
+"1404"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	36	41	26	3	NA
+"1405"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	31	36	20	4	NA
+"1406"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	46	52	22	4	NA
+"1407"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	31	37	26	4	NA
+"1408"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1409"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1410"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1411"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1412"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	102	109	64	6	NA
+"1413"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1414"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1415"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	146	NA	NA	NA	NA
+"1416"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	31	37	21	3	NA
+"1417"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	41	51	24	2	NA
+"1418"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	30	36	24	3	NA
+"1419"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	31	40	29	3	NA
+"1420"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	38	46	26	2	NA
+"1421"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	39	24	3	NA
+"1422"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	32	40	26	4	NA
+"1423"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	35	42	27	4	NA
+"1424"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	83	91	60	7	NA
+"1425"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	92	100	58	7	NA
+"1426"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	100	111	67	8	NA
+"1427"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	113	123	71	8	NA
+"1428"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	34	17	4	NA
+"1429"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	29	39	14	3	NA
+"1430"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	34	15	3	NA
+"1431"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	25	37	12	3	NA
+"1432"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	28	40	15	3	NA
+"1433"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	27	39	17	4	NA
+"1434"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	13	3	NA
+"1435"	"fve-4"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	26	36	13	3	NA
+"1436"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	67	87	45	12	NA
+"1437"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	59	75	41	11	NA
+"1438"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	60	79	43	11	NA
+"1439"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	73	94	31	10	NA
+"1440"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	64	86	33	11	NA
+"1441"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	85	101	40	7	NA
+"1442"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	75	36	10	NA
+"1443"	"fve-4"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	67	86	42	10	NA
+"1444"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"1445"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	3	NA
+"1446"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	20	26	13	3	NA
+"1447"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	17	22	14	4	NA
+"1448"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	13	4	NA
+"1449"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	14	3	NA
+"1450"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	23	14	4	NA
+"1451"	"fve-4"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	13	3	NA
+"1452"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	39	46	30	8	NA
+"1453"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	41	47	34	8	NA
+"1454"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	47	55	34	4	NA
+"1455"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	46	52	37	5	NA
+"1456"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	47	55	34	8	NA
+"1457"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	50	23	4	NA
+"1458"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	46	54	34	9	NA
+"1459"	"fve-4"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	48	56	35	9	NA
+"1460"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	17	2	NA
+"1461"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	22	28	15	2	NA
+"1462"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	16	3	NA
+"1463"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	22	29	15	3	NA
+"1464"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	23	29	17	3	NA
+"1465"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	23	29	14	3	NA
+"1466"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	28	15	3	NA
+"1467"	"fve-4"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	22	29	14	2	NA
+"1468"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	43	21	3	NA
+"1469"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	40	49	22	6	NA
+"1470"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	38	46	22	5	NA
+"1471"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	37	44	22	2	NA
+"1472"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	42	50	24	6	NA
+"1473"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	44	27	3	NA
+"1474"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	39	45	28	4	NA
+"1475"	"fve-4"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	43	50	22	5	NA
+"1476"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	49	71	36	10	NA
+"1477"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	50	68	39	6	NA
+"1478"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	53	71	32	9	NA
+"1479"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	57	72	44	7	NA
+"1480"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	57	74	35	8	NA
+"1481"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	60	77	45	7	NA
+"1482"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	57	75	42	8	NA
+"1483"	"gi-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	64	81	40	9	NA
+"1484"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	92	118	50	7	NA
+"1485"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	79	98	56	6	NA
+"1486"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	73	93	47	5	NA
+"1487"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	77	96	53	5	NA
+"1488"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	92	116	48	7	NA
+"1489"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	93	111	44	4	NA
+"1490"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	113	47	5	NA
+"1491"	"gi-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	92	116	48	6	NA
+"1492"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	62	71	37	6	NA
+"1493"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	49	57	28	5	NA
+"1494"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	53	59	27	3	NA
+"1495"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	42	50	32	6	NA
+"1496"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	53	60	29	3	NA
+"1497"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	45	53	26	5	NA
+"1498"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	41	49	23	5	NA
+"1499"	"gi-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	51	60	29	5	NA
+"1500"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	65	73	35	7	NA
+"1501"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	75	82	49	5	NA
+"1502"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1503"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1504"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	69	77	40	8	NA
+"1505"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	141	NA	NA	NA	NA
+"1506"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	102	113	70	9	NA
+"1507"	"gi-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	84	93	55	9	NA
+"1508"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	37	44	23	5	NA
+"1509"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	38	46	23	5	NA
+"1510"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	36	44	26	5	NA
+"1511"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	36	44	24	5	NA
+"1512"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	41	22	6	NA
+"1513"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	37	44	22	4	NA
+"1514"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	37	45	24	6	NA
+"1515"	"gi-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	35	45	18	3	NA
+"1516"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	54	64	29	4	NA
+"1517"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	62	69	28	4	NA
+"1518"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	66	NA	NA	NA	NA
+"1519"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	54	62	28	4	NA
+"1520"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	146	154	NA	NA	NA
+"1521"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	71	79	43	8	NA
+"1522"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	103	116	59	8	NA
+"1523"	"gi-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	54	65	27	3	NA
+"1524"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	51	64	41	8	NA
+"1525"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	55	68	47	10	NA
+"1526"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	54	68	42	8	NA
+"1527"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	55	66	43	8	NA
+"1528"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	48	62	44	5	NA
+"1529"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	57	71	33	6	NA
+"1530"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	64	39	6	NA
+"1531"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	60	72	40	10	NA
+"1532"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	111	64	9	NA
+"1533"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	105	68	8	NA
+"1534"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	62	8	NA
+"1535"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	88	106	62	8	NA
+"1536"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	105	67	8	NA
+"1537"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	92	113	62	7	NA
+"1538"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	107	67	7	NA
+"1539"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	108	65	7	NA
+"1540"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	57	62	47	7	NA
+"1541"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	69	76	44	6	NA
+"1542"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	60	67	55	8	NA
+"1543"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	67	72	49	7	NA
+"1544"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	69	76	52	5	NA
+"1545"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	60	67	47	7	NA
+"1546"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	56	62	40	6	NA
+"1547"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	68	75	56	9	NA
+"1548"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1549"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1550"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1551"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1552"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	127	139	72	10	NA
+"1553"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1554"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1555"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	102	109	61	8	NA
+"1556"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	41	49	29	2	NA
+"1557"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	48	56	33	2	NA
+"1558"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	39	46	30	3	NA
+"1559"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	41	49	31	2	NA
+"1560"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	42	50	28	5	NA
+"1561"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	45	53	33	6	NA
+"1562"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	47	55	33	5	NA
+"1563"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	39	47	29	2	NA
+"1564"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	108	118	73	9	NA
+"1565"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	113	123	74	7	NA
+"1566"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	86	96	66	9	NA
+"1567"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	119	130	79	9	NA
+"1568"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	35	15	4	NA
+"1569"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	14	4	NA
+"1570"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	35	13	3	NA
+"1571"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	18	4	NA
+"1572"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	25	36	15	3	NA
+"1573"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	27	39	13	3	NA
+"1574"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	35	14	4	NA
+"1575"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	34	15	4	NA
+"1576"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	56	73	38	9	NA
+"1577"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	52	69	34	8	NA
+"1578"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	51	69	36	8	NA
+"1579"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	51	68	31	8	NA
+"1580"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	53	72	39	9	NA
+"1581"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	67	86	40	10	NA
+"1582"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	53	69	34	5	NA
+"1583"	"ld-1 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	51	66	34	5	NA
+"1584"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	21	27	15	3	NA
+"1585"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	25	30	12	3	NA
+"1586"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	25	14	4	NA
+"1587"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	16	4	NA
+"1588"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	18	3	NA
+"1589"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	23	15	4	NA
+"1590"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	24	14	4	NA
+"1591"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	43	50	26	8	NA
+"1592"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	44	30	8	NA
+"1593"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	36	44	27	6	NA
+"1594"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	37	46	33	10	NA
+"1595"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	43	50	30	7	NA
+"1596"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	45	53	28	7	NA
+"1597"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	42	49	30	7	NA
+"1598"	"ld-1 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	45	53	22	7	NA
+"1599"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	18	26	16	3	NA
+"1600"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	19	27	15	3	NA
+"1601"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	28	17	3	NA
+"1602"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	16	3	NA
+"1603"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	28	34	14	2	NA
+"1604"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	14	2	NA
+"1605"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	21	27	14	2	NA
+"1606"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	27	13	3	NA
+"1607"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	34	41	24	6	NA
+"1608"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	34	41	23	5	NA
+"1609"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	43	24	3	NA
+"1610"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	38	45	28	3	NA
+"1611"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	49	57	29	6	NA
+"1612"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	36	44	27	5	NA
+"1613"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	47	55	31	6	NA
+"1614"	"ld-1 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	52	61	30	4	NA
+"1615"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	45	59	37	8	NA
+"1616"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	48	59	34	6	NA
+"1617"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	46	59	34	9	NA
+"1618"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	47	59	34	6	NA
+"1619"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	42	55	33	9	NA
+"1620"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	54	67	35	8	NA
+"1621"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	52	64	41	5	NA
+"1622"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	48	60	27	7	NA
+"1623"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	92	113	65	8	NA
+"1624"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	89	109	63	8	NA
+"1625"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	104	64	8	NA
+"1626"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	104	62	8	NA
+"1627"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	90	111	62	7	NA
+"1628"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	108	61	7	NA
+"1629"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	90	108	64	6	NA
+"1630"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	88	109	60	8	NA
+"1631"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	46	52	37	6	NA
+"1632"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	85	91	46	10	NA
+"1633"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	42	49	27	6	NA
+"1634"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	42	48	32	8	NA
+"1635"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	45	52	25	6	NA
+"1636"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	49	55	35	5	NA
+"1637"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	71	77	47	8	NA
+"1638"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	54	60	34	9	NA
+"1639"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1640"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	85	93	61	7	NA
+"1641"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	137	148	83	9	NA
+"1642"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1643"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1644"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	100	NA	NA	NA	NA
+"1645"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	130	144	62	9	NA
+"1646"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1647"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	35	42	25	4	NA
+"1648"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	36	44	29	4	NA
+"1649"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	34	42	27	4	NA
+"1650"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	37	44	28	3	NA
+"1651"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	29	37	19	3	NA
+"1652"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	37	45	23	3	NA
+"1653"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	38	45	28	3	NA
+"1654"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	46	54	33	5	NA
+"1655"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	71	NA	45	NA	NA
+"1656"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	106	116	72	8	NA
+"1657"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	86	97	60	5	NA
+"1658"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	102	113	73	9	NA
+"1659"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	88	97	59	6	NA
+"1660"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	24	35	15	3	NA
+"1661"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	23	35	13	3	NA
+"1662"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	26	38	13	4	NA
+"1663"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	22	33	16	3	NA
+"1664"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	28	40	14	3	NA
+"1665"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	24	36	15	3	NA
+"1666"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	34	13	3	NA
+"1667"	"ld-1"	"Col"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	23	36	13	4	NA
+"1668"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	63	83	41	8	NA
+"1669"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	55	72	40	8	NA
+"1670"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	53	73	42	8	NA
+"1671"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	60	76	40	8	NA
+"1672"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	76	41	8	NA
+"1673"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	60	79	39	8	NA
+"1674"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	55	72	39	8	NA
+"1675"	"ld-1"	"Col"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	59	76	39	6	NA
+"1676"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	15	4	NA
+"1677"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	19	24	14	4	NA
+"1678"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	18	24	15	3	NA
+"1679"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	16	22	16	4	NA
+"1680"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	19	24	15	3	NA
+"1681"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	17	22	18	3	NA
+"1682"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	24	29	12	3	NA
+"1683"	"ld-1"	"Col"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	18	24	14	3	NA
+"1684"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	45	53	31	5	NA
+"1685"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	47	36	9	NA
+"1686"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	39	48	31	9	NA
+"1687"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	40	47	35	8	NA
+"1688"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	45	53	32	6	NA
+"1689"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	41	49	32	7	NA
+"1690"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	47	56	38	8	NA
+"1691"	"ld-1"	"Col"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	47	56	36	9	NA
+"1692"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	21	28	14	2	NA
+"1693"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	20	27	15	2	NA
+"1694"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	23	29	12	2	NA
+"1695"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	22	28	14	2	NA
+"1696"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	20	27	17	2	NA
+"1697"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	22	28	13	3	NA
+"1698"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	22	30	11	3	NA
+"1699"	"ld-1"	"Col"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	19	26	14	3	NA
+"1700"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	36	43	23	5	NA
+"1701"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	29	47	25	4	NA
+"1702"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	50	58	24	6	NA
+"1703"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	38	45	27	4	NA
+"1704"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	37	45	27	4	NA
+"1705"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	39	46	28	5	NA
+"1706"	"ld-1"	"Col"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	51	58	24	3	NA
+"1707"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	32	44	22	3	NA
+"1708"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	35	45	23	7	NA
+"1709"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	38	49	31	6	NA
+"1710"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	35	44	27	6	NA
+"1711"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	39	52	27	6	NA
+"1712"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	39	49	24	4	NA
+"1713"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	41	52	30	5	NA
+"1714"	"soc1-2"	"Col"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	39	50	24	6	NA
+"1715"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	57	7	NA
+"1716"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	85	101	66	7	NA
+"1717"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	72	87	64	8	NA
+"1718"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	83	98	66	7	NA
+"1719"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	102	67	7	NA
+"1720"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	85	100	61	7	NA
+"1721"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	87	103	64	6	NA
+"1722"	"soc1-2"	"Col"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	79	95	61	8	NA
+"1723"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	24	29	18	2	NA
+"1724"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	26	31	16	2	NA
+"1725"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	22	28	17	2	NA
+"1726"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	21	27	17	2	NA
+"1727"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	23	28	18	3	NA
+"1728"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	24	29	16	2	NA
+"1729"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	21	27	16	3	NA
+"1730"	"soc1-2"	"Col"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	24	28	18	2	NA
+"1731"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	55	61	41	7	NA
+"1732"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	69	77	61	5	NA
+"1733"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	64	72	48	8	NA
+"1734"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"Y"	64	72	51	8	NA
+"1735"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	64	71	45	6	NA
+"1736"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	57	62	43	3	NA
+"1737"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	67	76	50	10	NA
+"1738"	"soc1-2"	"Col"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"Y"	71	77	52	9	NA
+"1739"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	24	30	15	2	NA
+"1740"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	26	31	14	1	NA
+"1741"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	23	29	16	1	NA
+"1742"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	24	30	14	1	NA
+"1743"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	24	29	17	2	NA
+"1744"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	24	30	15	1	NA
+"1745"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	24	30	17	2	NA
+"1746"	"soc1-2"	"Col"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	24	30	12	1	NA
+"1747"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	48	55	36	3	NA
+"1748"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	46	53	25	5	NA
+"1749"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	51	57	27	5	NA
+"1750"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	53	62	39	4	NA
+"1751"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	51	59	34	3	NA
+"1752"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	50	59	31	4	NA
+"1753"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	51	59	35	3	NA
+"1754"	"soc1-2"	"Col"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	54	62	38	1	NA
+"1755"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	57	68	47	9	NA
+"1756"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	61	73	49	8	NA
+"1757"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	55	70	38	8	NA
+"1758"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"2B"	"High"	"NV"	16	12	"Con"	"Y"	"Y"	60	71	51	8	NA
+"1759"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	55	69	48	8	NA
+"1760"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	61	74	44	8	NA
+"1761"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	63	76	53	10	NA
+"1762"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDNV"	"5B"	"Low"	"NV"	16	12	"Con"	"Y"	"Y"	66	79	48	11	NA
+"1763"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	132	151	83	7	NA
+"1764"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	138	158	91	6	NA
+"1765"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	125	137	73	7	NA
+"1766"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"4T"	"High"	"NV"	8	12	"Con"	"Y"	"Y"	123	141	83	7	NA
+"1767"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	132	153	88	6	NA
+"1768"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	132	153	90	6	NA
+"1769"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	132	154	98	7	NA
+"1770"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDNV"	"5T"	"Low"	"NV"	8	12	"Con"	"Y"	"Y"	132	151	85	6	NA
+"1771"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	60	65	47	8	NA
+"1772"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	77	82	62	7	NA
+"1773"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	83	90	62	9	NA
+"1774"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"4B"	"High"	"NV"	16	22	"Con"	"Y"	"Y"	60	66	48	6	NA
+"1775"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	72	77	75	7	NA
+"1776"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	46	52	31	6	NA
+"1777"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	89	95	71	9	NA
+"1778"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDNV"	"6T"	"Low"	"NV"	16	22	"Con"	"Y"	"Y"	67	71	48	7	NA
+"1779"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1780"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1781"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1782"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"2T"	"High"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1783"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1784"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1785"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1786"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDNV"	"7B"	"Low"	"NV"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1787"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	32	41	26	4	NA
+"1788"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	32	40	26	3	NA
+"1789"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	34	41	27	3	NA
+"1790"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"3B"	"High"	"NV"	16	22	"Var"	"Y"	"Y"	33	40	26	4	NA
+"1791"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	39	24	4	NA
+"1792"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	37	43	23	3	NA
+"1793"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	31	40	26	5	NA
+"1794"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDNV"	"7T"	"Low"	"NV"	16	22	"Var"	"Y"	"Y"	34	42	28	3	NA
+"1795"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"3T"	"High"	"NV"	8	22	"Var"	"Y"	"Y"	71	NA	55	NA	NA
+"1796"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	88	97	60	7	NA
+"1797"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	89	100	64	10	NA
+"1798"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	100	111	69	9	NA
+"1799"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDNV"	"6B"	"Low"	"NV"	8	22	"Var"	"Y"	"Y"	112	122	74	7	NA
+"1800"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	45	58	38	10	NA
+"1801"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	42	54	40	9	NA
+"1802"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	46	59	37	7	NA
+"1803"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"2B"	"High"	"V"	16	12	"Con"	"Y"	"Y"	55	68	45	7	NA
+"1804"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	57	59	39	9	NA
+"1805"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	46	59	26	8	NA
+"1806"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	46	59	34	6	NA
+"1807"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConLD"	"12ConLDV"	"5B"	"Low"	"V"	16	12	"Con"	"Y"	"Y"	48	61	39	7	NA
+"1808"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	102	125	77	7	NA
+"1809"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	95	116	71	7	NA
+"1810"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	92	113	75	10	NA
+"1811"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"4T"	"High"	"V"	8	12	"Con"	"Y"	"Y"	102	123	72	11	NA
+"1812"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	108	130	78	8	NA
+"1813"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	113	137	73	8	NA
+"1814"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	104	130	71	7	NA
+"1815"	"vin3-4 FRI"	"Col FRI"	"Col"	"12ConSD"	"12ConSDV"	"5T"	"Low"	"V"	8	12	"Con"	"Y"	"Y"	102	123	77	10	NA
+"1816"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	55	61	47	7	NA
+"1817"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	42	47	36	6	NA
+"1818"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	44	51	41	5	NA
+"1819"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"4B"	"High"	"V"	16	22	"Con"	"Y"	"Y"	46	52	43	6	NA
+"1820"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	48	55	41	6	NA
+"1821"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	43	48	36	7	NA
+"1822"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	40	45	35	4	NA
+"1823"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConLD"	"22ConLDV"	"6T"	"Low"	"V"	16	22	"Con"	"Y"	"Y"	77	82	74	8	NA
+"1824"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1825"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1826"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1827"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"2T"	"High"	"V"	8	22	"Con"	"Y"	"Y"	123	137	70	8	NA
+"1828"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	123	134	68	6	NA
+"1829"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1830"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"Y"	134	144	67	8	NA
+"1831"	"vin3-4 FRI"	"Col FRI"	"Col"	"22ConSD"	"22ConSDV"	"7B"	"Low"	"V"	8	22	"Con"	"Y"	"N"	162	NA	NA	NA	NA
+"1832"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	34	40	34	4	NA
+"1833"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	32	40	31	4	NA
+"1834"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	30	39	27	5	NA
+"1835"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"3B"	"High"	"V"	16	22	"Var"	"Y"	"Y"	32	40	29	4	NA
+"1836"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	30	37	27	5	NA
+"1837"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	29	38	28	5	NA
+"1838"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	37	44	30	3	NA
+"1839"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarLD"	"22VarLDV"	"7T"	"Low"	"V"	16	22	"Var"	"Y"	"Y"	32	40	32	3	NA
+"1840"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	56	NA	NA	NA	NA
+"1841"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	66	NA	57	6	NA
+"1842"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"3T"	"High"	"V"	8	22	"Var"	"Y"	"Y"	67	NA	57	NA	NA
+"1843"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	90	97	69	6	NA
+"1844"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	67	75	54	11	NA
+"1845"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	69	79	58	5	NA
+"1846"	"vin3-4 FRI"	"Col FRI"	"Col"	"22VarSD"	"22VarSDV"	"6B"	"Low"	"V"	8	22	"Var"	"Y"	"Y"	84	92	64	5	NA

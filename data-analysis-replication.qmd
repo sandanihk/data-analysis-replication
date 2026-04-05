@@ -1,0 +1,594 @@
+---
+title: "data-analysis-replication"
+format: html
+author: Sandani Kottegoda
+date: today
+---
+
+## Introduction:
+[Describe goal of paper]
+Temperature is an environmental cue that strongly influence plant development, especially flowering (the transition from vegetative growth to reproductive development) (cite). In this paper, the authors point out that much of the work in the field studying flowering in plants have been done in controlled laboratory conditions. As temperatures often fluctuate in natural environments (i.e., in the field), it is expected that gene expression that control flowering and other aspects of development are affected by this variability. Since flowering has a huge impact in agriculture, this study conducts experiments in the field to see how temperature influences flowering time in many *Arabidopsis thaliana* genotypes, including those with mutations in the flowering time pathway (flowering time mutants), to answer the following questions: (1) How do fluctuating temperatures affect flowering time?; (2) Do these effects (if any) rely on the day length, average temperature, or winter chilling exposure^?; (3) How do mutations in different genes affect flowering responses to temperature fluctuations?; (4) Do these responses also affect growth and/or morphological differences? ^Many plant species (including specific *A. thaliana* genotypes) rely on a prolonged cold exposure (i.e., winter) to accelerate flowering once favorable conditions return (i.e., spring); this process is known as vernalization.
+
+[Describe data set used]
+
+
+[Describe analyses conducted on those data sets]
+
+
+[Describe which ones you will replicate]
+
+
+[Describe the conclusions from the study]
+
+You need to describe all elements of data manipulation, analysis, and visualization. Provide as much coding details, explanation, and output tables as necessary to compare the results. You should replicate four analyses: descriptive statistical analysis, visualization, inferential, and one more of your choosing. The text should be thorough and the R code should be well documented and provides as much explanation and output.
+
+## Visualization replication:
+
+Analysis of biomass accumulation between genotypes and environmental conditions.
+
+Code chunk 1: Loading in the relevant datasets.
+The appropriate text files for the this visualization replication were the Biomass_Age.txt and Biomass_Bolt.txt files. These files look at the aboveground (above the soil surface root) biomass of two genotypes--Col and Col*FRI*Sf-2--at various time points/ages and at bolting, respectively. 
+
+To load them in, I chose to use the `read_tsv()` function within the {tidyverse} package, since they are text files. Therefore, I first loaded in the package of interest and began by assigning the file path to the temporary file name ("f1" or "f2") to use as the argument in `read_tsv()`. I had trouble loading in both datasets as is, as their observations (labelled as 1, 2, 3, etc.) had no column name and was, therefore, parsed under the first column name, "Genotype," which was for the second column (defined as either Col or Col FRI); this caused the subsequent columns to be parsed incorrectly. Thus, I specified the column names manually using `col_names()` and skipped the first line of the dataset with `skip()` equal to 1 to remove their first row, which was the variable names they used. I used the same approach for both datasets.
+
+After loading each dataset in, I briefly looked through them with `head()`, `names()`, and `str()`.
+```{r}
+# LOADING IN DATA:
+
+# loading in required package
+library(tidyverse)
+
+# biomass by age data
+f1 <- "/Users/sandanik/Downloads/Fluctuating-warm-temperatures-flowering/Biomass_Age.txt" # assigning file path for read_tsv()
+
+# using read_tsv() to read in text file
+biomass_age <- read_tsv(file = f1, # using assigned file object
+                        skip = 1, # removing first row of header names
+                        col_names = c("Observation", "Genotype", "Treatment", "Chamber.ID", "Replicate", "Age", "Num.Sample", "Rosette.leaf.num", "weight.grams")) # manually specifying column names
+
+# overview of age dataset
+head(biomass_age)
+names(biomass_age)
+str(biomass_age)
+
+
+# biomass at bolting
+f2 <- "/Users/sandanik/Downloads/Fluctuating-warm-temperatures-flowering/Biomass_Bolt.txt"
+biomass_bolt <- read_tsv(file = f2, 
+                         skip = 1, # removing first row of header names
+                         col_names = c("Observation", "Genotype", "Treatment", "Treatment.detail", "Chamber.ID", "Days.to.Bolt", "Rosette.leaf.num", "weight.grams"))
+
+# overview of bolt dataset
+head(biomass_bolt)
+names(biomass_bolt)
+str(biomass_bolt)
+```
+
+```{r}
+# Fig. 6 A: Biomass accumulation of Col, Col-FRI Sf-2 in LD conditions.
+# DATA WRANGLING
+
+# loading in required package
+library(dplyr)
+
+temp_biomass_age <- biomass_age |>
+  filter(Treatment %in% c("12ConLD", "22ConLD", "22VarLD")) |> # filtering specific treatment data
+  group_by(Treatment, Genotype, Age) |> # grouping by variables of interest
+  summarize(n_cases = n(), # determining # of cases per set of observations
+    avgBiomass = mean(weight.grams, na.rm = TRUE), # calculating avg. biomass per group
+    sdBiomass = sd(weight.grams, na.rm = TRUE), # calculating SD per group
+    seBiomass = sdBiomass / sqrt(n_cases), # calculating SE per group
+    .groups = "drop") # drops grouping levels
+
+
+(p_LD_age <- ggplot(data = temp_biomass_age,
+                   aes(x = Age, y = avgBiomass, color = Treatment, shape = Genotype)) +
+  #geom_point(na.rm = TRUE) +
+  geom_jitter(width = 0.3, height = 0, alpha = 1) +
+  scale_color_manual(values = c("12ConLD" = "skyblue2",
+                               "22ConLD" = "gold2",
+                               "22VarLD" = "red2")) +
+    scale_y_log10(limits = c(0.000085, 0.05),
+                  breaks = c(0.0001, 0.001, 0.01)))
+
+```
+
+
+```{r}
+# Fig. 6 B-C: Avg. plant biomass at bolt in LD and SD conditions.
+# DATA WRANGLING
+
+# loading in required package
+library(dplyr)
+
+# long day biomass bolt data
+temp_biomass_bolt_LD <- biomass_bolt |> # assigning to temporary dataset
+  filter(Treatment %in% c("22ConLD", "22VarLD", "12ConLD")) |> # filtering specific treatment data
+  group_by(Treatment, Genotype) |> # grouping by variables of interest
+  summarize(n_cases = n(), # determining # of cases per set of observations
+    avgBiomass = mean(weight.grams, na.rm = TRUE), # calculating avg. biomass per group
+    sdBiomass = sd(weight.grams, na.rm = TRUE), # calculating SD per group
+    seBiomass = sdBiomass / sqrt(n_cases), # calculating SE per group
+    .groups = "drop") # drops grouping levels
+
+# short day biomass bolt data
+temp_biomass_bolt_SD <- biomass_bolt |> # assigning to temp. object
+  filter(Treatment %in% c("22ConSD", "22VarSD", "12ConSD")) |> # filtering for SD treatments
+  group_by(Treatment, Genotype) |> # grouping data by treatment and genotypes
+  summarize(n_cases = n(), # looking at # of cases per grouping
+    avgBiomass = mean(weight.grams, na.rm = TRUE), # calculating avg. biomass for groups
+    sdBiomass = sd(weight.grams, na.rm = TRUE), # calculating SD per group
+    seBiomass = sdBiomass / sqrt(n_cases), # calculating SE per group
+    .groups = "drop") # dropping levels
+```
+
+```{r}
+temp_biomass_bolt_LD$Treatment <- factor(temp_biomass_bolt_LD$Treatment,
+                                      levels = c("22ConLD", "22VarLD", "12ConLD"))
+
+(p_LD <- ggplot(data = temp_biomass_bolt_LD,
+             aes(x = Genotype, y = avgBiomass, fill = Treatment)) +
+  geom_bar(stat = "identity", position = "dodge", color = "black") +
+geom_errorbar(
+  aes(
+    ymin = ifelse(Treatment == "22ConLD" & Genotype == "Col FRI",
+                  NA, avgBiomass - seBiomass),
+    ymax = ifelse(Treatment == "22ConLD" & Genotype == "Col FRI",
+                  NA, avgBiomass + seBiomass)
+  ),
+  position = pd,
+  width = 0.2
+) +
+  xlab(NULL) +
+  ylab("Biomass at bolt (g)") +
+  scale_y_continuous(limits = c(0, 0.35), breaks = seq(0, 0.35, by = 0.05)) +
+  scale_fill_manual(values = c("22ConLD" = "gold2",
+                               "22VarLD" = "red2",
+                               "12ConLD" = "skyblue2")) +
+  theme_bw() +
+  theme(axis.title.y = element_text(margin = margin(0,10,0,0)),
+        axis.ticks = element_blank())
+  )
+```
+
+```{r}
+# PLOTS
+
+#installing necessary package for plots
+install.packages("ggpattern")
+
+# loading in required package
+library(ggplot2)
+library(ggpattern)
+
+# biomass plot for LD data
+temp_biomass_bolt_LD$Treatment <- factor(temp_biomass_bolt_LD$Treatment,
+                                      levels = c("22ConLD", "22VarLD", "12ConLD"))
+
+(p_LD <- ggplot(data = temp_biomass_bolt_LD,
+             aes(x = Genotype, y = avgBiomass, fill = Treatment)) +
+  geom_bar(stat = "identity", position = "dodge", color = "black") +
+    geom_errorbar(aes(
+      ymin = ifelse(Treatment == "22ConLD" & Genotype == "Col FRI", NA, avgBiomass - seBiomass),
+      ymax = ifelse(Treatment == "22ConLD" & Genotype == "Col FRI", NA, avgBiomass + seBiomass)),
+      position = pd,
+      width = 0.2) +
+    xlab(NULL) +
+    ylab("Biomass at bolt (g)") +
+    scale_y_continuous(limits = c(0, 0.35), breaks = seq(0, 0.35, by = 0.05)) +
+    scale_fill_manual(values = c("22ConLD" = "gold2",
+                               "22VarLD" = "red2",
+                               "12ConLD" = "skyblue2")) +
+    theme_bw() +
+    theme(axis.title.y = element_text(margin = margin(0,10,0,0)),
+          axis.ticks = element_blank(),
+          legend.position = c(0.01, 0.99),
+          legend.justification = c(0.01, 0.99),
+          legend.background = element_rect(color = "black", fill = "white"))
+  )
+
+
+# biomass plot for SD data
+temp_biomass_bolt_SD$Treatment <- factor(temp_biomass_bolt_SD$Treatment,
+                                      levels = c("22ConSD", "22VarSD", "12ConSD"))
+
+(p_SD <- ggplot(data = temp_biomass_bolt_SD,
+             aes(x = Genotype, y = avgBiomass, fill = Treatment)) +
+  geom_bar(stat = "identity", position = "dodge", color = "black") +
+  geom_errorbar(aes(ymin = avgBiomass - seBiomass,
+                    ymax = avgBiomass + seBiomass),
+                position = position_dodge(0.9),
+                width = 0.2) +
+  xlab(NULL) +
+  ylab("Biomass at bolt (g)") +
+  scale_y_continuous(limits = c(0, 0.9), breaks = seq(0, 0.9, by = 0.1)) +
+  scale_fill_manual(values = c("22ConSD" = "darkorange3",
+                               "22VarSD" = "red4",
+                               "12ConSD" = "navyblue")) +
+  theme_bw() +
+  theme(axis.title.y = element_text(margin = margin(0,10,0,0)),
+          axis.ticks = element_blank(),
+          legend.position = c(0.01, 0.99),
+          legend.justification = c(0.01, 0.99),
+          legend.background = element_rect(color = "black", fill = "white"))
+  )
+```
+
+Inferential Statistical Analysis:
+Described in the "Statistical Analysis" section of the paper, they performed a regression analysis and likelihood ratio test to assess whether very high constant or fluctuating treatments affected the bolting response in Col or Col FRI genotypes when compared with warm conditions.
+
+They used the model logDTBi = mu + treatmenti for 22ConLD with 27ConLD and 27VarLD.
+
+```{r}
+# loading in dataset
+f3 <- "/Users/sandanik/Downloads/Fluctuating-warm-temperatures-flowering/Experiment2.txt"
+
+exp_2 <- read_tsv(file = f3,
+                  skip = 1, # removing first row of header names
+                  col_names = c("Observation", "Genotype", "Treatment", "Days.to.Bolt", "Notes"))
+
+temp_exp_2 <- exp_2 |>
+  mutate(logDTB = log(Days.to.Bolt)) |> # adding new column for easy reference
+  # setting treatment reference
+  mutate(Treatment = factor(Treatment)) |> 
+  mutate(Treatment = relevel(Treatment, ref = "22ConLD"))
+
+# overview of dataset
+head(temp_exp_2)
+names(temp_exp_2) # variables
+str(temp_exp_2)
+```
+
+```{r}
+# visualizing the relationship between DTB (continous) vs. treatment (categorical)
+(p_relation <- ggplot(data = temp_exp_2,
+                     aes(x = Treatment, y = logDTB, color = Genotype)) +
+  geom_boxplot(na.rm = TRUE) +
+  geom_jitter(alpha = 0.3) +
+  facet_grid(~Genotype))
+```
+
+```{r}
+# loading in necessary package
+library(tidyverse)
+library(broom)
+library(emmeans) # for contrasting
+
+# regression analysis using lm() for their full model
+m1 <- lm(logDTB ~ Treatment, data = etemp_exp_2)
+summary(m1)
+```
+```{r}
+library(tidyverse)
+library(broom)
+
+# Function to calculate Likelihood Ratio (Chisq)
+calc_lrt_contrast <- function(sub_data, trt_1, trt_2) {
+  comparison_data <- sub_data |> filter(Treatment %in% c(trt_1, trt_2))
+  
+  m_full <- lm(logDTB ~ Treatment, data = comparison_data)
+  m_null <- lm(logDTB ~ 1, data = comparison_data)
+  
+  # Sum of Squares (SS)
+  ss_val <- anova(m_full)["Treatment", "Sum Sq"]
+  
+  # True Likelihood Ratio Chi-squared statistic
+  stats_lrt <- logLik(m_full)
+  stats_null <- logLik(m_null)
+  chisq_val <- as.numeric(2 * (stats_lrt - stats_null))
+  
+  # P-value from Chi-squared distribution (df = 1)
+  p_val <- pchisq(chisq_val, df = 1, lower.tail = FALSE)
+
+  tibble(
+    contrast = paste(trt_1, "vs.", trt_2),
+    coef = coef(m_full)[2],
+    sum_of_squares = ss_val,
+    chisq = chisq_val,
+    p_val = p_val
+  )
+}
+
+# Run the pipeline
+final_table <- temp_exp_2 |> 
+  filter(Genotype != "Col-0") |> 
+  group_by(Genotype) |>
+  nest() |>
+  mutate(
+    comp1 = map(data, ~calc_lrt_contrast(.x, "22ConLD", "27ConLD")),
+    comp2 = map(data, ~calc_lrt_contrast(.x, "22ConLD", "27VarLD"))
+  ) |>
+  pivot_longer(cols = c(comp1, comp2), names_to = "test_type", values_to = "results") |>
+  unnest(results) |>
+  ungroup() |>
+  # Apply Holm's Sequential Bonferroni (1979)
+  mutate(p_corrected = p.adjust(p_val, method = "holm")) |>
+  select(Genotype, contrast, coef, sum_of_squares, p_val, p_corrected) |>
+  rename("Treatment Contrast" = contrast,
+         "Coef" = coef,
+         "Sum.of.Sq" = sum_of_squares,
+         "P-valueX2" = p_val,
+         "Corrected P-value" = p_corrected)
+
+print(final_table)
+```
+
+Inferential Analysis #2: Running a linear model on hypocotyl measurments. They used a linear model to determine the effect of fluctuating warm temperatures on hypocotyl length. 
+
+```{r}
+# loading in data
+f4 <- "/Users/sandanik/Downloads/Fluctuating-warm-temperatures-flowering/Experiment1.txt"
+
+exp_1 <- read_tsv(file = f4,
+                  skip = 1, # removing first row of header names
+                  col_names = c("Observation", "Genotype", "Background", "Background.simple", "Treatment", "Treatment.V", "Chamber.ID", "Chamber.Irradiance", "Vernalization", "Daylength", "Temperature", "Fluctuation", "Survival.Bolt", "Bolt", "Days.to.Bolt", "Days.to.Flower", "Rosette.leaf.num", "Cauline.leaf.num", "Blade.length.mm", "Total.leaf.length.mm", "Blade.ratio", "Notes"))
+
+# created in previous replicated analysis
+exp_2
+
+
+f5 <- "/Users/sandanik/Downloads/Fluctuating-warm-temperatures-flowering/Experiment3.txt"
+
+exp_3 <- read_tsv(file = f5,
+                  skip = 1, # removing first row of header names
+                  col_names = c("Observation", "Genotype", "Background", "Background.simple", "Treatment", "Treatment.V", "Chamber.ID", "Chamber.Irradiance", "Vernalization", "Daylength", "Temperature", "Fluctuation", "Survival.Bolt", "Bolt", "Days.to.Bolt", "Days.to.Flower", "Rosette.leaf.num", "Cauline.leaf.num", "Notes"))
+```
+
+```{r}
+# Fig. 3 A: Late-flowering, non-vernalized genotypes from LD treatments of Experiment 3
+install.packages("scales")
+library(dplyr)
+library(stringr)
+library(ggplot2)
+library(scales)
+library(ggtext)
+
+filtered_exp3 <- exp_3 |>
+  mutate(
+    Combined_Background = case_when(
+      Genotype %in% c("Col", "Col Ama") ~ "Col",
+      
+      # 1. ADDED ASTERISKS AROUND FRI TO MATCH YOUR FILTERS!
+      str_detect(Genotype, "Col FRI") ~ "Col *FRI*", 
+      
+      # For mutants, we keep "Col" normal, but wrap the genotype in *asterisks*
+      str_detect(Genotype, "vin3-4 FRI") ~ "Col *vin3-4 FRI*",
+      str_detect(Genotype, "fca-9.*FRI") ~ "Col *fca-9 FRI*",
+      str_detect(Genotype, "fld-3.*FRI") ~ "Col *fld-3 FRI*",
+      str_detect(Genotype, "fpa-7.*FRI") ~ "Col *fpa-7 FRI*",
+      str_detect(Genotype, "fve-4.*FRI") ~ "Col *fve-4 FRI*",
+      str_detect(Genotype, "ld-1.*FRI")  ~ "Col *ld-1 FRI*",
+      
+      # Non-FRI mutants
+      str_detect(Genotype, "^fca-9$") ~ "Col *fca-9*",
+      str_detect(Genotype, "^fld-3$") ~ "Col *fld-3*",
+      str_detect(Genotype, "^fpa-7$") ~ "Col *fpa-7*",
+      str_detect(Genotype, "^fve-4$") ~ "Col *fve-4*",
+      str_detect(Genotype, "^ld-1$")  ~ "Col *ld-1*",
+      TRUE ~ Genotype
+    )
+  ) |> 
+  # 2. Filter using the EXACT strings generated above
+  filter(Combined_Background %in% c("Col", "Col *FRI*", "Col *vin3-4 FRI*", "Col *fca-9*", 
+                                    "Col *fca-9 FRI*", "Col *fld-3*", "Col *fld-3 FRI*", 
+                                    "Col *fpa-7*", "Col *fpa-7 FRI*", "Col *fve-4*", 
+                                    "Col *fve-4 FRI*", "Col *ld-1*", "Col *ld-1 FRI*")) |>
+  filter(Treatment.V %in% c("12ConLDNV", "22ConLDNV", "22VarLDNV"))
+
+
+
+# 3. Factorize using the exact strings (including asterisks!)
+# Now that strings match perfectly, the custom ordering will work flawlessly.
+filtered_exp3$Combined_Background <- factor(filtered_exp3$Combined_Background, 
+                                            levels = c("Col", "Col *FRI*", "Col *vin3-4 FRI*", "Col *fca-9*", "Col *fca-9 FRI*", "Col *fld-3*", "Col *fld-3 FRI*", "Col *fpa-7*", "Col *fpa-7 FRI*", "Col *fve-4*", "Col *fve-4 FRI*", "Col *ld-1*", "Col *ld-1 FRI*"))
+
+
+# 4. Define the backgrounds we want to stay PLAIN (unbolded)
+plain_labels <- c("Col", "Col *FRI*", "Col *fpa-7*", "Col *fve-4*")
+
+# 5. Plot!
+(p_DTB_1 <- ggplot(data = filtered_exp3, 
+                  aes(x = Combined_Background, y = Days.to.Bolt, fill = Treatment)) +
+  geom_boxplot(na.rm = TRUE) +
+  scale_y_continuous(limits = c(0, 125), breaks = seq(0, 125, by = 25)) +
+  scale_x_discrete(labels = function(x) {
+    # 1. Apply your wrapping (10 characters so words don't snap in half)
+    wrapped <- label_wrap(5)(x)
+    
+    # 2. Swap \n for <br> so Markdown respects the line breaks
+    wrapped_html <- gsub("\n", "<br>", wrapped)
+    
+    # 3. If it's NOT in the plain list, wrap the WHOLE thing in bold tags!
+    ifelse(x %in% plain_labels, 
+           wrapped_html, 
+           paste0("**", wrapped_html, "**"))
+  }) +
+  
+  scale_fill_manual(values = c("22ConLD" = "gold2",
+                               "22VarLD" = "red2",
+                               "12ConLD" = "skyblue2")) +
+  xlab(NULL) +
+  ylab("Days to bolt") +
+  theme(
+    text = element_text(size = 14, family = "Times New Roman"),
+    axis.text.x = element_markdown(margin = margin(-30, 0, 0, 0), color = "black"),
+    axis.text.y = element_text(size = 12, color = "black"),
+    axis.title.y = element_text(margin = margin(0, 5, 0, 0)),
+    axis.ticks.x = element_blank(),
+    legend.position = c(0.01, 0.99),
+    legend.justification = c(0.01, 0.99),
+    legend.background = element_rect(fill = "white")
+  ))
+```
+
+```{r}
+# Fig. 3 B: Col, Col FRI, and Col FRI vin3-4 response in LD conditions in Experiment 1
+
+filtered_exp1_LD <- exp_1 |>
+    mutate(Combined_Background = case_when(
+      Genotype %in% c("Col", "Col Ama") ~ "Col",
+      
+      # 1. ADDED ASTERISKS AROUND FRI TO MATCH YOUR FILTERS!
+      str_detect(Genotype, "Col FRI") ~ "Col *FRI*", 
+      # For mutants, we keep "Col" normal, but wrap the genotype in *asterisks*
+      str_detect(Genotype, "vin3-4 FRI") ~ "Col *vin3-4 FRI*",
+      TRUE ~ Genotype)) |> 
+  # 2. Filter using the EXACT strings generated above
+  filter(Combined_Background %in% c("Col", "Col *FRI*", "Col *vin3-4 FRI*")) |>
+  filter(Treatment.V %in% c("12ConLDNV", "22ConLDNV", "22VarLDNV", "12VarLDNV",
+                            "12ConLDV", "22ConLDV", "22VarLDV", "12VarLDV")) |>
+mutate(
+    # Check if Treatment.V ends in "V" but NOT "NV"
+    Graph_Label = case_when(
+      str_detect(Treatment.V, "NV$") ~ Combined_Background,
+      str_detect(Treatment.V, "V$")  ~ paste(Combined_Background, "(V)"),
+      TRUE ~ Combined_Background
+    )
+  )
+
+
+
+# 5. Plot!
+(p_DTB_2 <- ggplot(data = filtered_exp1_LD, 
+                  aes(x = Graph_Label, y = Days.to.Bolt, fill = Treatment)) +
+  geom_boxplot(na.rm = TRUE) +
+  scale_y_continuous(limits = c(0, 100), breaks = seq(0, 90, by = 30),
+                     minor_breaks = seq(0, 90, by = 15)) +
+  scale_x_discrete(position = "top", labels = function(x) {
+    # 1. Apply your wrapping (10 characters so words don't snap in half)
+    wrapped <- label_wrap(6)(x)
+    
+    # 2. Swap \n for <br> so Markdown respects the line breaks
+    wrapped_html <- gsub("\n", "<br>", wrapped)
+     }) +
+  
+  scale_fill_manual(values = c("22ConLD" = "gold2",
+                               "22VarLD" = "red2",
+                               "12ConLD" = "skyblue2",
+                               "12VarLD" = "darkolivegreen2")) +
+  xlab(NULL) +
+  ylab("Days to bolt") +
+  theme(
+    text = element_text(size = 14, family = "Times New Roman"),
+    
+    # NOTICE THE '.top' ADDED HERE:
+    axis.text.x.top = element_markdown(margin = margin(0, 0, -40, 0), color = "black"), 
+    
+    axis.text.y = element_text(size = 12, color = "black"),
+    axis.title.y = element_text(margin = margin(0, 5, 0, 0)),
+    axis.ticks.x = element_blank(),
+    legend.position = c(0.01, 0.85),
+    legend.justification = c(0.01, 0.99),
+    legend.background = element_rect(fill = "white")))
+```
+
+```{r}
+# Fig. 3 C: Col, Col FRI, and Col FRI vin3-4 response in SD conditions in Experiment 1
+
+filtered_exp1_SD <- exp_1 |>
+    mutate(Combined_Background = case_when(
+      Genotype %in% c("Col", "Col Ama") ~ "Col",
+      
+      # 1. ADDED ASTERISKS AROUND FRI TO MATCH YOUR FILTERS!
+      str_detect(Genotype, "Col FRI") ~ "Col *FRI*", 
+      # For mutants, we keep "Col" normal, but wrap the genotype in *asterisks*
+      str_detect(Genotype, "vin3-4 FRI") ~ "Col *vin3-4 FRI*",
+      TRUE ~ Genotype)) |> 
+  # 2. Filter using the EXACT strings generated above
+  filter(Combined_Background %in% c("Col", "Col *FRI*", "Col *vin3-4 FRI*")) |>
+  filter(Treatment.V %in% c("12ConSDNV", "22ConSDNV", "22VarSDNV", "12VarSDNV",
+                            "12ConSDV", "22ConSDV", "22VarSDV", "12VarSDV")) |>
+mutate(
+    # Check if Treatment.V ends in "V" but NOT "NV"
+    Graph_Label = case_when(
+      str_detect(Treatment.V, "NV$") ~ Combined_Background,
+      str_detect(Treatment.V, "V$")  ~ paste(Combined_Background, "(V)"),
+      TRUE ~ Combined_Background
+    )
+  )
+
+
+
+# 5. Plot!
+(p_DTB_3 <- ggplot(data = filtered_exp1_SD, 
+                  aes(x = Graph_Label, y = Days.to.Bolt, fill = Treatment)) +
+  geom_boxplot(na.rm = TRUE) +
+  scale_y_continuous(limits = c(0, 160), breaks = seq(0, 150, by = 50),
+                     minor_breaks = seq(0, 160, by = 25)) +
+  scale_x_discrete(labels = function(x) {
+    # 1. Apply your wrapping (10 characters so words don't snap in half)
+    wrapped <- label_wrap(6)(x)
+    
+    # 2. Swap \n for <br> so Markdown respects the line breaks
+    wrapped_html <- gsub("\n", "<br>", wrapped)
+     }) +
+  
+  scale_fill_manual(values = c("22ConSD" = "darkorange3",
+                               "22VarSD" = "red4",
+                               "12ConSD" = "navyblue",
+                               "12VarSD" = "darkolivegreen")) +
+  xlab(NULL) +
+  ylab("Days to bolt") +
+  theme( text = element_text(size = 14, family = "Times New Roman"),
+    
+    axis.text.x = element_markdown(margin = margin(-40, 0, 0, 0), color = "black"), 
+    axis.text.y = element_text(size = 12, color = "black"),
+    axis.title.y = element_text(margin = margin(0, 5, 0, 0)),
+    axis.ticks.x = element_blank(),
+    legend.position = c(0.01, 0.99),
+    legend.justification = c(0.01, 0.99),
+    legend.background = element_rect(fill = "white")))
+```
+
+```{r}
+# Fig. 3D: Col vs. Col FRI behavior in Experiment 2
+
+filtered_exp2 <- exp_2 |>
+  mutate(
+    # 1. Give your new column a name and call case_when
+    Genotype = case_when(
+      Genotype %in% c("Col-0", "Col Ama") ~ "Col",
+      
+      # 2. Add a COMMA at the end of this line!
+      str_detect(Genotype, "Col FRI") ~ "Col *FRI*", 
+      TRUE ~ Genotype
+    )
+  ) |> 
+  filter(Treatment %in% c("22ConLD", "27ConLD", "27VarLD"))
+
+
+(p_DTB_4 <- ggplot(data = filtered_exp2, 
+                  aes(x = Genotype, y = Days.to.Bolt, fill = Treatment)) +
+  geom_boxplot(na.rm = TRUE) +
+  scale_y_continuous(limits = c(0, 140), breaks = seq(0, 100, by = 50),
+                     minor_breaks = seq(0, 140, by = 25)) +
+  scale_x_discrete(position = "top", labels = function(x) {
+    # 1. Apply your wrapping (10 characters so words don't snap in half)
+    wrapped <- label_wrap(10)(x)
+    
+    # 2. Swap \n for <br> so Markdown respects the line breaks
+    wrapped_html <- gsub("\n", "<br>", wrapped)
+     }) +
+  
+  scale_fill_manual(values = c("22ConLD" = "gold2",
+                               "27ConLD" = "orchid2",
+                               "27VarLD" = "darkorchid3")) +
+  xlab(NULL) +
+  ylab("Days to bolt") +
+  theme( text = element_text(size = 16, family = "Times New Roman"),
+    
+    axis.text.x.top = element_markdown(margin = margin(0, 0, -20, 0), color = "black"), 
+    axis.text.y = element_text(size = 12, color = "black"),
+    axis.title.y = element_text(margin = margin(0, 5, 0, 0)),
+    axis.ticks.x = element_blank(),
+    legend.position = c(0.80, 0.3),
+    legend.justification = c(0.01, 0.99),
+    legend.background = element_rect(fill = "white")))
+```
+
+
+[Describe how successful the replications were or not.]
+
+[Report any challenges, missing data, unclear information about how the data was processed, etc.]
+
+[Discuss possible reasons your replication different from the results.]
