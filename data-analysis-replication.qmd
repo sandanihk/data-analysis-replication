@@ -82,7 +82,9 @@ str(biomass_bolt) # internal structure
 skim(biomass_bolt) # comprehensive overview
 ```
 
-**Descriptive Statistical Analysis 1:** *Calculating the average biomass throughout vegetative development (before bolting) for 12ConLD, 22ConLD, and 22VarLD conditions*
+
+
+## **Descriptive Statistical Analysis 1:** *Calculating the average biomass throughout vegetative development (before bolting) for 12ConLD, 22ConLD, and 22VarLD conditions*
 
 
 ### Code chunk 2: Data wrangling
@@ -161,21 +163,21 @@ library(ggplot2)
 
 Here is the original visualization seen in Fig. 6 A for comparison^2^. This was embedded using the Tony included in the DAR module.
 ```{r}
-#| out-width: 200px
+#| out-width: 900px
 
 # loading in required package for original images
 library(knitr) # this might not be needed since I do "knitr::"
 
-knitr::include_graphics("images/Figure 6.jpg")
+knitr::include_graphics("images/Figure 6_A.png")
 ```
 
-*Results and Interpretation:* Based on the scatterplot, it is clear that vegetative biomass accumulates as plant age increases. There does not seem to be a clear difference between the two genotype in which accumulates more mass by age, but there is a clear indication that the temperature treatment influences biomass. The cool temperatures (12ConLD) shows reduced biomass accumulation compared to either the warm constant (22ConLD) or fluctuating temperatures (22VarLD). These results suggest that temperature significantly modulates the vegetative growth rates for these plants, while constant or fluctuating warm temperatures don't seem to affect accumulation that much.
+*Results and Interpretation:* Based on the scatterplot, it is clear that vegetative biomass accumulates as plant age increases. There does not seem to be a clear difference between the two genotype in which accumulates more mass by age, but there is a clear indication that the temperature treatment influences biomass. The cool temperatures (12ConLD) shows reduced biomass accumulation compared to either the warm constant (22ConLD) or fluctuating temperatures (22VarLD). These results suggest that temperature significantly modulates the vegetative growth rates for these plants, while constant or fluctuating warm temperatures don't seem to affect accumulation that much. Ultimately, the means and error bars (reflecting the SE values) from the replication look close to the original
 
-I think this plot looks similar to the original, but it was pretty difficult handling the error bar alignment and jittering situation. It would have been nice if they included a table for their descriptive statistical analyses for a precise comparison, but replicating the graph made it easy to do, too.
+The plot in general also looks similar to the original, but it was pretty difficult handling the error bar alignment and jittering situation. It would have been nice if they included a table for their descriptive statistical analyses for a precise comparison, but replicating the graph made it easy to do, too.
 
 
 
-**Descriptive Statistical Analysis 2:** *Calculating the average biomass at bolting for 12ConSD, 22ConSD, and 22VarSD conditions*
+## **Descriptive Statistical Analysis 2:** *Calculating the average biomass at bolting for 12ConSD, 22ConSD, and 22VarSD conditions*
 
 Another analysis they did was look at the average biomass at the bolting stage for both genotypes across LD and SD conditions. To prevent this report from being excessive, I decided to replicate one of these analyses, so since I previously did LD conditions, this time I will do SD! The exact same code (with the exception of changing variable names form SD -> LD) can be used to perform the LD analysis.
 
@@ -269,12 +271,12 @@ temp_biomass_bolt_SD$Treatment <- factor(temp_biomass_bolt_SD$Treatment,
 
 This is the original visualization seen in Fig. 6 C for comparison^2^.
 ```{r}
-#| out-width: 200px
+#| out-width: 500px
 
 # loading in required package for original images
 library(knitr)
 
-knitr::include_graphics("images/Figure 6.jpg")
+knitr::include_graphics("images/Figure 6_C.png")
 ```
 
 *Results and Interpretation:*  Based on the `temp_biomass_bolt_SD` table and `SD_bolt` graph, the bimass at bolt in SD conditions were quite different across genotypes. It seems that the wild-type undergoes less vegetative growth before bolting, while Col FRI continues to grow vegetatively until flowering is induced. In the variable SD conditions (22VarSD), the variable temperatures seemed to cause earlier bolting in Col, as well as Col FRI relative to constant warm temperatures (22ConSD). Additionally, it seems like the cool constant temperatures (12ConSD) did affect the biomass at bolting for Col that much, but had a greater effect on Col FRI, reducing the biomass almost 4-fold. This shows that these cooler temperatures promote bolting much earlier in Col FRI relative to warm temperatures, suggesting the FRI gene (represses flowering) is less active in these conditions, allowing the plant flower.
@@ -288,7 +290,9 @@ The replicated analysis looks similar to the original. Again, it would be nice t
 This portion of the report will focus on replicating an inferential statistical analysis. The authors performed many statistical analyses, but I chose a regression analysis, since we covered regression extensively in class! 
 
 
-**Inferential Statistical Analysis 1:** *Determing whether extreme high temperatures affects bolting*
+
+
+## **Inferential Statistical Analysis 1:** *Determing whether extreme high temperatures affects bolting*
 
 In this specific experiment, they were interested in assessing whether extreme high constant and fluctuating temperatures affected the bolting response in the plants. They grew Col and Col FRI~SF-2~ in constant (27 degrees Celsius) and fluctuating (22 to 32 degrees Celsius) LD conditions. As a control, the results were compared to the same genotypes exposed to a 22 degrees Celsius (warm conditions) LD treatment. There were 12 replicates for each genotype.
 
@@ -296,12 +300,12 @@ In this specific experiment, they were interested in assessing whether extreme h
 
 With their data, they performed a regression analysis and likelihood ratio test (LRT) to compare 27ConLD and 27VarLD against 22ConLD (control) for each genotype (Col Ama and Col FRI). This LRT model was done to determine whether temperature treatments improve the fit of the model they use when compared to simpler, null version. The null model would assume that temperature does not predict bolting, while the alternative model incorporates the various temperature treatments. I have included their equation below (Equation 4)^2^: 
 ```{r}
-#| out-width: 200px
+#| out-width: 900px
 
 # loading in required package for original images
 library(knitr)
 
-knitr::include_graphics("Exp 2 Regression Analysis Equation.png")
+knitr::include_graphics("images/Exp 2 Regression Analysis Equation.png")
 ```
 
 About the dataset: The file for the dataset used in this experiment is called "Experiment2.txt." In the original dataset, there are 4 variables (other than the observation number): "Genotype", "Treatment", "Days.to.Bolt", and "Notes." These variables hold the same meaning as described in the other datasets used in the descriptive statistical analyses. I wanted to note that there were three unique genotypes--Col Ama, Col-0, and Col FRI--but for this analysis, only Col Ama and Col FRI were used. Col Ama and Col-0 are both standard wild-type accessions (I believe they should essentially be the same), Col Ama just happens to be from a professor named R. Amasino.
@@ -434,7 +438,7 @@ final_table
 
 Here is the original LRT results table from Table S5 in their Supporting Information document^2^.
 ```{r}
-#| out-width: 200px
+#| out-width: 900px
 
 # loading in required package for original images
 library(knitr)
@@ -458,7 +462,7 @@ For the Data Visualization Replication portion of the report, I decided to repli
 * *Vernalization is the process where a prolonged cold treatment (i.e. four weeks at 4C in a lab environment) promotes flowering once favorable, warm conditions return. Vernalization is necessary for genotypes that have an active FRI gene (as it ultimately represses flowering); thus, no vernalization treatment would prevent FRI-containing genotypes from bolting.*
 
 
-**Data Visualization 1:** *Visualizing DTB responses between various late-flowering, non-vernalized genotypes*
+## **Data Visualization 1:** *Visualizing DTB responses between various late-flowering, non-vernalized genotypes*
 
 About the dataset: In what they called "Experiment 3" in the paper, the authors looked at the bolting time across 23 flowering mutants (they have mutations in genes that affect the timing of when they flower) within the Col genetic background. The corresponding dataset, "Experiment3.txt" contains many variables; however, the most relevant ones in the downstream analysis are" "Genotype", "Background.simple", "Treatment", Treatment.V", and "Days.to.Bolt". "Background" refers to the simple genetic background of each genotype. "Treatment.V" contains the same data as the "Treatment" column, but it has either "NV" (no vernalization)" or "V" (vernalization) to indicate whether vernalization was applied. The other variables are the same as mentioned before. Again, this dataset is relevant to Fig. 3 A.
 
@@ -583,14 +587,13 @@ library(scales)
 
 Here is the original visualization plot from Fig. 3 A^2^.
 ```{r}
-#| out-width: 200px
+#| out-width: 900px
 
 # loading in required package for original images
 library(knitr)
 
-knitr::include_graphics("images/Figure 3.jpg")
+knitr::include_graphics("images/Figure 3_A.png")
 ```
-
 
 *Results and Interpretation:* I think this visualization replication worked out well! It was pretty difficult with maintaining the Markdown syntax in the plot, as I have never tried that before. I didn't expect having to make a function to wrap and bold text, but it was fun to figure out. I can't find major differences in terms of how the boxplots/data look to the original.
 
@@ -598,7 +601,7 @@ For interpreting the data, many of the flowering times mutants show differences 
 
 
 
-**Data Visualization 2:** *Assessing whether high temperatures affect bolting time in Col vs. Col FRI*
+## **Data Visualization 2:** *Assessing whether high temperatures affect bolting time in Col vs. Col FRI*
 
 About the dataset: In "Experiment 2," they look at whether high temperature affect bolting times (used in Inferential Statistical Analysis). The dataset, "Experiment2.txt" has 4 variables ("Genotype", "Treatment", "Days.to.Bolt", and "Notes.") and was briefly described earlier in this report.
 
@@ -673,12 +676,12 @@ Overall, the code for the boxplots were assigned to the object `DTB_C` and enclo
 
 Here is the original visualization plot from Fig. 3 D^2^.
 ```{r}
-#| out-width: 200px
+#| out-width: 900px
 
 # loading in required package for original images
 library(knitr)
 
-knitr::include_graphics("images/Figure 3.png")
+knitr::include_graphics("images/Figure 3_D.png")
 ```
 
 
@@ -687,11 +690,21 @@ knitr::include_graphics("images/Figure 3.png")
 I think this plot is pretty close to the original. It seems like they removed the outlier seen in the Col FRI 27ConLD data, where the plant bolted around 30 days. It makes sense to remove this data point, as it does not accurately reflect the genotype. However, they didn't mention this in their analysis or paper, so I didn't remove it. Removing that outlier likely adjusted the cut-offs for the whiskers of the boxplot, adding the two outliers for the same treatment and genotype that are closer to the boxplot (around 90 days); removing the outlier also reduced the variability of that plot.
 
 
-## Summary/Discussion
+# Summary/Discussion
 
 Overall, I believe replicating the statistical analyses and visualizations from this paper went well. I mainly encountered problems when it came to small differences between mine and the original visualization or slightly off statistics (specifically from the Inferential Statistical Analysis). The issues with data visualization is likely due to my current skill set with {ggplot2}; I'm still very much a beginner and don't know how to achieve various graphics. For the statistical analyses, I must have gotten variable data due to initial data cleaning that the authors did that I did not do (i.e., removing outliers), making certain values (like p-values) different. Additionally, removing outliers would affect the plot interpretation, which it did for me, especially when it comes to visualizing variability. I'm not sure how thorough people are with their analyses in papers, but clearly stating which data were removed or how the original data was manipulated would have helped replicated the results more accurately--but I don't think that is very common. Other than that, I thought this paper provided everything I needed to replicate their analyses. This project was a great challenge that made me feel more comfortable in R and taught me things that will definitely help me in the future!
 
-## References
+
+### Notes about files on GitHub
+
+I added all the data they provided from Dryad for your reference, but only the following are relevant for these analyses and visualizations: "Biomass_Age.txt," "Biomass_Bolt.txt," "Experiment2.txt," Experiment3.txt," "Supporting_Information.pdf," as well as the text files' READMEs.
+
+For figures where I analyzed one part (e.g., Fig. 3 A), I also included the full image (e.g., Fig. 3) in images in addition to the subsetted image.
+
+Thank you!
+
+
+# References
 
 1. Sandra M. Kerbler, Philip A. Wigge. 2023. Temperature Sensing in Plants. Annual Review Plant Biology. 74:341-366. https://doi.org/10.1146/annurev-arplant-102820-102235
 
